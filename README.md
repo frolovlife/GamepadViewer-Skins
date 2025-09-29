@@ -51,7 +51,7 @@
 
 ### Junior var.2
 
-![A preview of the Dendy Junior var.2 skin](https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/preview/dendy-junior-v2.svg "Dendy Junior var.2")
+![A preview of the Dendy Junior var.2 skin](https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/preview/dendy-junior-v2.svg "Dendy Junior var.2")
 - [Link with mapping: LStick to DPad (4example, for 8BitDo M30, SN30 etc)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/junior-v2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Link without mapping](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/junior-v2.css)
 - [Skin CSS](https://frolovlife.github.io/gamepadviewer-skins/dendy/junior-v2.css)
