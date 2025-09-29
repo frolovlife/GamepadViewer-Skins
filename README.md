@@ -1,4 +1,4 @@
-# Consoles
+# Skins
 
 ## 8BitDo
 
