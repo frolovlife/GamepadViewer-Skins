@@ -1,25 +1,48 @@
-# Table of contents
-- [**Controller skins**](#controller-skins)
-  - [8BitDo](#8bitdo)
-    - [8BitDo M30 (black)](#8bitdo-m30-black)
-    - [8BitDo M30 (white)](#8bitdo-m30-white)
-  - [**Sega**](#sega)
-    - [Sega Saturn (model 2 black)](#sega-saturn-model-2-black)
-    - [Sega Saturn (model 2 white)](#sega-saturn-model-2-white)
-  - [**Dendy**](#dendy)
-    - [Dendy Classic](#dendy-classic)
-    - [Dendy Junior (var. 1)](#dendy-junior-var-1)
-    - [Dendy Junior (var. 2)](#dendy-junior-var-2)
-    - [Famiclone](#famiclone)
-  - [**NEC**](#nec)
-    - [NEC PC Engine (var. 1)](#nec-pc-engine-var-1)
-    - [NEC PC Engine (var. 2)](#nec-pc-engine-var-2)
-    - [NEC PC Engine CoreGrafx](#nec-pc-engine-coregrafx)
-    - [NEC PC Engine CoreGrafx II](#nec-pc-engine-coregrafx-ii)
-    - [NEC TurboGrafx 16](#nec-turbografx-16)
-    - [NEC TurboDuo](#nec-turboduo)
+# General
+
+These are custom skins of various controllers for [GamepadViewer](https://gamepadviewer.com/). You can use them to display your controller's button presses on your stream.
+
+> [!IMPORTANT]
+> GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
+
+## How to use with OBS Studio, StreamLabs etc.
+
+1. Choose the controller skin you want to display on your stream below.
+2. Copy the OBS link with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapping.*
+3. Create a Browser source on the scene in OBS Studio.
+4. Paste the copied link into the Browser source address bar and click «OK».
+> [!NOTE]
+> All links for OBS Studio are designed for the first player's controller. To display the second, third, or fourth player's controller, replace `p=1` in the link with `p=2`, `p=3`, or `p=4` respectively.
+
+## How to use with GamepadViewer's URL generator
+
+1. Choose the controller skin you want to display on your stream below.
+2. Copy the raw CSS link of these skin.
+3. Go to [GamepadViewer URL Generator](https://gamepadviewer.com/#generate).
+4. Paste the copied link into the «Custom CSS URL» field.
+5. Configure the remaining parameters as desired and copy the generated link.
+6. Paste the generated link into the Browser source address bar in OBS Studio and click «OK».
 
 # Controller skins
+
+- [8BitDo](#8bitdo)
+  - [8BitDo M30 (black)](#8bitdo-m30-black)
+  - [8BitDo M30 (white)](#8bitdo-m30-white)
+- [**Sega**](#sega)
+  - [Sega Saturn (model 2 black)](#sega-saturn-model-2-black)
+  - [Sega Saturn (model 2 white)](#sega-saturn-model-2-white)
+- [**Dendy**](#dendy)
+  - [Dendy Classic](#dendy-classic)
+  - [Dendy Junior (var. 1)](#dendy-junior-var-1)
+  - [Dendy Junior (var. 2)](#dendy-junior-var-2)
+  - [Famiclone](#famiclone)
+- [**NEC**](#nec)
+  - [NEC PC Engine (var. 1)](#nec-pc-engine-var-1)
+  - [NEC PC Engine (var. 2)](#nec-pc-engine-var-2)
+  - [NEC PC Engine CoreGrafx](#nec-pc-engine-coregrafx)
+  - [NEC PC Engine CoreGrafx II](#nec-pc-engine-coregrafx-ii)
+  - [NEC TurboGrafx 16](#nec-turbografx-16)
+  - [NEC TurboDuo](#nec-turboduo)
 
 ## 8BitDo
 
