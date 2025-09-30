@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 930 426" width="930px" height="426px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:#C00000}
+    .fil1 {fill:red}
+  </style>
+ </defs>
+ <g>
+  <path class="fil0" d="M146.614 212.318c9.289,0 18.205,1.589 26.499,4.5l0 45.996c0,0.827 0.338,1.578 0.882,2.122l-27.381 27.382 -27.382 -27.382c0.544,-0.544 0.881,-1.295 0.881,-2.122l0 -45.996c8.294,-2.912 17.212,-4.5 26.501,-4.5z"/>
+  <path class="fil1" d="M146.614 212.318c7.267,0 14.307,0.975 20.999,2.791l0 50.205c0,1.654 0.675,3.155 1.762,4.242l-22.761 22.762 -22.762 -22.762c1.087,-1.087 1.761,-2.588 1.761,-4.242l0 -50.205c6.693,-1.816 13.733,-2.791 21.001,-2.791z"/>
+  <path class="fil0" d="M146.614 273.318c5.246,0 9.996,2.127 13.435,5.565l-13.435 13.435 -13.435 -13.435c3.438,-3.438 8.188,-5.565 13.435,-5.565z"/>
+ </g>
+</svg>
