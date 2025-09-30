@@ -1,6 +1,6 @@
 # General
 
-These are custom skins of various controllers for [GamepadViewer](https://gamepadviewer.com/). You can use them to display your controller's button presses on your stream.
+These are custom skins of various controllers for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
 
 > [!IMPORTANT]
 > GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
