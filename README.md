@@ -8,9 +8,9 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
 ## How to use with OBS Studio, StreamLabs etc.
 
 1. Choose the controller skin you want to display on your stream below.
-2. Copy the OBS link with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapping.*
+2. Copy the link for OBS Studio with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapping.*
 3. Create a Browser source on the scene in OBS Studio.
-4. Paste the copied link into the Browser source address bar and click «OK».
+4. Paste the copied link into the Browser source URL field and click «OK».
 > [!NOTE]
 > All links for OBS Studio are designed for the first player's controller. To display the second, third, or fourth player's controller, replace `p=1` in the link with `p=2`, `p=3`, or `p=4` respectively.
 
