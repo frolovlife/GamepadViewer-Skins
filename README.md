@@ -5,6 +5,8 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
 > [!IMPORTANT]
 > GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
 
+From time to time, I'll be tweaking existing skins and adding new ones. Please Star this project to avoid losing it.
+
 ## How to use with OBS Studio, StreamLabs etc.
 
 1. Choose the controller skin you want to display on your stream below.
