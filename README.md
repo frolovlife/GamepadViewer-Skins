@@ -43,6 +43,7 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
   - [NEC PC Engine CoreGrafx II](#nec-pc-engine-coregrafx-ii)
   - [NEC TurboGrafx 16](#nec-turbografx-16)
   - [NEC TurboDuo](#nec-turboduo)
+  - [NEC PC-FX](#nec-pc-fx)
 
 ## 8BitDo
 
@@ -165,3 +166,11 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
 - [Link for OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css)
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nec/td.css)
+
+### NEC PC-FX
+
+<p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/preview/nec-pcfx.svg" width="50%"></p>
+
+- [Link for OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
+- [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
