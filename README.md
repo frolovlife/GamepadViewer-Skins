@@ -33,11 +33,12 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [**Sega**](#sega)
   - [Sega Saturn (model 2 black)](#sega-saturn-model-2-black)
   - [Sega Saturn (model 2 white)](#sega-saturn-model-2-white)
+- [**Nintendo**](#Nintendo)
+  - [Famicom (with buttons X and Y)](#Famicom-with-buttons-x-and-y)
 - [**Dendy**](#dendy)
   - [Dendy Classic](#dendy-classic)
   - [Dendy Junior (var. 1)](#dendy-junior-var-1)
   - [Dendy Junior (var. 2)](#dendy-junior-var-2)
-  - [Famiclone](#famiclone)
 - [**NEC**](#nec)
   - [NEC PC Engine PI-PD001](#nec-pc-engine-pi-pd001)
   - [NEC PC Engine PI-PD002](#nec-pc-engine-pi-pd002)
@@ -84,6 +85,17 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-model2-white.css)
 
 
+## Nintendo
+
+### Famicom (with buttons X and Y)
+
+<p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/dendy/junior/preview-famiclone.svg" width="50%"></p>
+
+- [Link for OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css)
+- [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css)
+
+
 ## Dendy
 
 ### Dendy Classic
@@ -109,14 +121,6 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Link for OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/junior-v2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/junior-v2.css)
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/dendy/junior-v2.css)
-
-### Famiclone
-
-<p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/dendy/junior/preview-famiclone.svg" width="50%"></p>
-
-- [Link for OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
-- [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css)
-- [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css)
 
 
 ## NEC
