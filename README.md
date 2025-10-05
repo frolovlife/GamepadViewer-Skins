@@ -10,7 +10,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 ## How to use with OBS Studio, StreamLabs etc.
 
 1. Choose the controller skin you want to display on your stream below.
-2. Copy the link for OBS Studio with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapping.*
+2. Copy the link for OBS Studio with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapped LStick to DPad.*
 3. Create a Browser source on the scene in OBS Studio.
 4. Paste the copied link into the Browser source URL field and click «OK».
 > [!NOTE]
