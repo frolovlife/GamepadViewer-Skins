@@ -39,10 +39,10 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [Dendy Junior (var. 2)](#dendy-junior-var-2)
   - [Famiclone](#famiclone)
 - [**NEC**](#nec)
-  - [NEC PC Engine (var. 1)](#nec-pc-engine-var-1)
-  - [NEC PC Engine (var. 2)](#nec-pc-engine-var-2)
-  - [NEC PC Engine CoreGrafx](#nec-pc-engine-coregrafx)
-  - [NEC PC Engine CoreGrafx II](#nec-pc-engine-coregrafx-ii)
+  - [NEC PC Engine PI-PD001](#nec-pc-engine-pi-pd001)
+  - [NEC PC Engine PI-PD002](#nec-pc-engine-pi-pd002)
+  - [NEC PC Engine PI-PD6](#nec-pc-engine-pi-pd6)
+  - [NEC PC Engine PI-PD8](#nec-pc-engine-pi-pd8)
   - [NEC TurboGrafx 16](#nec-turbografx-16)
   - [NEC TurboDuo](#nec-turboduo)
   - [NEC PC-FX](#nec-pc-fx)
@@ -121,7 +121,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 ## NEC
 
-### NEC PC Engine (var. 1)
+### NEC PC Engine PI-PD001
 
 <p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pce-v1.svg" width="50%"></p>
 
@@ -129,7 +129,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-v1.css)
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nec/pce-v1.css)
 
-### NEC PC Engine (var. 2)
+### NEC PC Engine PI-PD002
 
 <p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pce-v2.svg" width="50%"></p>
 
@@ -137,7 +137,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-v2.css)
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nec/pce-v2.css)
 
-### NEC PC Engine CoreGrafx
+### NEC PC Engine PI-PD6
 
 <p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pce-cg.svg" width="50%"></p>
 
@@ -145,7 +145,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-cg.css)
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nec/pce-cg.css)
 
-### NEC PC Engine CoreGrafx II
+### NEC PC Engine PI-PD8
 
 <p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pce-cg2.svg" width="50%"></p>
 
