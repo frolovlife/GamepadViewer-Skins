@@ -1,9 +1,9 @@
-/*BEGIN Famicom (with X and Y) Controller Styling*/
+/*BEGIN Famicom Controller Styling*/
 
 /* Main */
 .controller.custom {
   position: absolute;
-  background-image: url(famicom/base-xy.svg);
+  background-image: url(famicom/base.svg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -12,7 +12,7 @@
 }
 
 .controller.custom:not(.disconnected) {
-  background-image: url(famicom/base-xy.svg);
+  background-image: url(famicom/base.svg);
 }
 
 .custom.disconnected {
