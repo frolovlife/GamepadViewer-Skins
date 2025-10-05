@@ -49,7 +49,7 @@
   background-image: url(famicom/p4.svg);
 }
 
-/* Start and Select. */
+/* Start and Select */
 .custom .arrows {
 }
 
@@ -78,7 +78,7 @@
   background-image: url(famicom/pressed-select.svg);
 }
 
-/* A, B, X and Y  */
+/* A, B, X and Y */
 .custom .abxy {
 }
 
