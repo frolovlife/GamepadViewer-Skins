@@ -35,7 +35,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [Sega Saturn (model 2 white)](#sega-saturn-model-2-white)
 - [**Nintendo**](#Nintendo)
   - [Famicom](#Famicom)
-- [**Dendy**](#dendy)
+- [**Famiclones**](#famiclones)
   - [Dendy Classic](#dendy-classic)
   - [Dendy Junior (var. 1)](#dendy-junior-var-1)
   - [Dendy Junior (var. 2)](#dendy-junior-var-2)
@@ -96,7 +96,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Link to raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css)
 
 
-## Dendy
+## Famiclones
 
 ### Dendy Classic
 
