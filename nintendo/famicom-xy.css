@@ -1,0 +1,170 @@
+/*BEGIN Famicom (with X and Y) Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(famicom/base-xy.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(famicom/base-xy.svg);
+}
+
+.custom.disconnected {
+  background-image: url(famicom/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Player Indicator */
+.custom .quadrant {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .p0 {
+  background-image: url(famicom/p1.svg);
+}
+
+.custom .p1 {
+  background-image: url(famicom/p2.svg);
+}
+
+.custom .p2 {
+  background-image: url(famicom/p3.svg);
+}
+
+.custom .p3 {
+  background-image: url(famicom/p4.svg);
+}
+
+/* Start and Select. */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(famicom/start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(famicom/pressed-start.svg);
+}
+
+.custom .back {
+  background-image: url(famicom/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(famicom/pressed-select.svg);
+}
+
+/* A, B, X and Y  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(famicom/button-b.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(famicom/pressed-button-b.svg);
+}
+
+.custom .b {
+  background-image: url(famicom/button-a.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(famicom/pressed-button-a.svg);
+}
+
+.custom .x {
+  background-image: url(famicom/button-y.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(famicom/pressed-button-y.svg);
+}
+
+.custom .y {
+  background-image: url(famicom/button-x.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(famicom/pressed-button-x.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  /* background-image: url(famicom/dpad.svg); */
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(famicom/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(famicom/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(famicom/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(famicom/pressed-dpad-right.svg);
+}
