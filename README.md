@@ -34,7 +34,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [Sega Saturn (model 2 black)](#sega-saturn-model-2-black)
   - [Sega Saturn (model 2 white)](#sega-saturn-model-2-white)
 - [**Nintendo**](#Nintendo)
-  - [Famicom (with buttons X and Y)](#Famicom-with-buttons-x-and-y)
+  - [Famicom](#Famicom)
 - [**Dendy**](#dendy)
   - [Dendy Classic](#dendy-classic)
   - [Dendy Junior (var. 1)](#dendy-junior-var-1)
@@ -87,9 +87,9 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 ## Nintendo
 
-### Famicom (with buttons X and Y)
+### Famicom
 
-<p align="left"><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/dendy/junior/preview-famiclone.svg" width="50%"></p>
+**<p align="left">With buttons X and Y</p>**<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/dendy/junior/preview-famiclone.svg" width="50%"></p>
 
 - [Link for OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Link for OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/dendy/famiclone.css)
