@@ -1,0 +1,128 @@
+/*BEGIN NES "DogBone" Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(dogbone/base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(dogbone/base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(dogbone/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Start and Select */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(dogbone/start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(dogbone/pressed-start.svg);
+}
+
+.custom .back {
+  background-image: url(dogbone/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(dogbone/pressed-select.svg);
+}
+
+/* A and B */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(dogbone/button-b.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(dogbone/pressed-button-b.svg);
+}
+
+.custom .b {
+  background-image: url(dogbone/button-a.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(dogbone/pressed-button-a.svg);
+}
+
+/* D-Pad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  /* background-image: url(dogbone/dpad.svg); */
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(dogbone/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(dogbone/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(dogbone/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(dogbone/pressed-dpad-right.svg);
+}
