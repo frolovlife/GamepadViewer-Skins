@@ -47,7 +47,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [NEC TurboGrafx 16](#nec-turbografx-16)
   - [NEC PC Engine Duo](#nec-pc-engine-duo)
   - [NEC TurboDuo](#nec-turboduo)
-  - [NEC PC Engine Duo-R](#nec-pc-engine-duo-r)
+  - [NEC PC Engine PCE-TP2](#nec-pc-engine-pce-tp2)
   - [NEC PC-FX](#nec-pc-fx)
 
 ## 8BitDo
@@ -247,7 +247,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nec/td-xy.css)
 
-### NEC PC Engine Duo-R
+### NEC PC Engine PCE-TP2
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-duo-r.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-duo-r-xy.svg" width="40%"></p>
 
