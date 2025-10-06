@@ -1,0 +1,185 @@
+/*BEGIN NEC PCE-TP1 Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(pce-tp1/base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(pce-tp1/base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(pce-tp1/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Buttons I and VI */
+.custom .bumpers {
+}
+
+.custom .bumper {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .bumper.right {
+  background-image: url(pce-tp1/button-6.svg);
+}
+
+.custom .bumper.right.pressed {
+  background-image: url(pce-tp1/pressed-button-6.svg);
+}
+
+.custom .triggers {
+}
+
+.custom .trigger-button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .trigger-button.right {
+  background-image: url(pce-tp1/button-1.svg);
+}
+
+.custom .trigger-button.right.pressed {
+  background-image: url(pce-tp1/pressed-button-1.svg);
+}
+
+/* Run and Select. */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(pce-tp1/run.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(pce-tp1/pressed-run.svg);
+}
+
+.custom .back {
+  background-image: url(pce-tp1/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(pce-tp1/pressed-select.svg);
+}
+
+/* Buttons II, III, IV and V  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(pce-tp1/button-3.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(pce-tp1/pressed-button-3.svg);
+}
+
+.custom .b {
+  background-image: url(pce-tp1/button-2.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(pce-tp1/pressed-button-2.svg);
+}
+
+.custom .x {
+  background-image: url(pce-tp1/button-4.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(pce-tp1/pressed-button-4.svg);
+}
+
+.custom .y {
+  background-image: url(pce-tp1/button-5.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(pce-tp1/pressed-button-5.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  background-image: url(pce-tp1/dpad.svg);
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(pce-tp1/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(pce-tp1/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(pce-tp1/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(pce-tp1/pressed-dpad-right.svg);
+}

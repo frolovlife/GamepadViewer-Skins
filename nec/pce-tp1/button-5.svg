@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1232 544" width="1232px" height="544px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:black;fill-opacity:0.3}
+    .fil0 {fill:url(#id0)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="967.636" y1="249.713" x2="967.636" y2="182.514">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B2B2E6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C8C8F4"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <circle class="fil0" cx="967.636" cy="216.114" r="42"/>
+  <polygon class="fil1" points="980.446,200.029 970.663,236.905 964.609,236.905 954.825,200.029 949.596,200.029 949.596,195.322 965.283,195.322 965.283,200.029 961.302,200.029 967.636,223.902 973.969,200.029 969.989,200.029 969.989,195.322 985.676,195.322 985.676,200.029 "/>
+ </g>
+</svg>
