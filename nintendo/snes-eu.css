@@ -1,4 +1,4 @@
-/*BEGIN SNES Controller Styling*/
+/*BEGIN SNES (Europe) Controller Styling*/
 
 /* Main */
 .controller.custom {
@@ -95,35 +95,35 @@
 }
 
 .custom .a {
-  background-image: url(snes/button-b-sf.svg);
+  background-image: url(snes/button-b-sfc.svg);
 }
 
 .custom .a.pressed {
-  background-image: url(snes/pressed-button-b-sf.svg);
+  background-image: url(snes/pressed-button-b-sfc.svg);
 }
 
 .custom .b {
-  background-image: url(snes/button-a-sf.svg);
+  background-image: url(snes/button-a-sfc.svg);
 }
 
 .custom .b.pressed {
-  background-image: url(snes/pressed-button-a-sf.svg);
+  background-image: url(snes/pressed-button-a-sfc.svg);
 }
 
 .custom .x {
-  background-image: url(snes/button-y-sf.svg);
+  background-image: url(snes/button-y-sfc.svg);
 }
 
 .custom .x.pressed {
-  background-image: url(snes/pressed-button-y-sf.svg);
+  background-image: url(snes/pressed-button-y-sfc.svg);
 }
 
 .custom .y {
-  background-image: url(snes/button-x-sf.svg);
+  background-image: url(snes/button-x-sfc.svg);
 }
 
 .custom .y.pressed {
-  background-image: url(snes/pressed-button-x-sf.svg);
+  background-image: url(snes/pressed-button-x-sfc.svg);
 }
 
 /* Dpad */
