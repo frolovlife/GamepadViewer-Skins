@@ -15,7 +15,7 @@
     .fil3 {fill:url(#id1);fill-opacity:0.7}
     .fil1 {fill:url(#id2);fill-opacity:0.7}
   </style>
-  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="55.3309%" y1="69.7649%" x2="44.6691%" y2="40.2351%">
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="59.6289%" y1="67.803%" x2="40.3711%" y2="42.197%">
    <stop offset="0" style="stop-opacity:1; stop-color:#666666"/>
    <stop offset="1" style="stop-opacity:1; stop-color:gray"/>
   </linearGradient>
