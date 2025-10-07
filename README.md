@@ -38,6 +38,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [NES «Dogbone»](#nes-dogbone)
   - [Super Famicom](#super-famicom)
   - [SNES](#snes)
+  - [SNES (Europe)](#snes-europe)
 - [**Famiclones**](#famiclones)
   - [Dendy Classic](#dendy-classic)
   - [Dendy Junior (var. 1)](#dendy-junior-var-1)
