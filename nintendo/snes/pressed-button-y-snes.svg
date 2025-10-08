@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 908 396" width="908px" height="396px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:red}
+    .fil1 {fill:#E00000}
+  </style>
+ </defs>
+ <g>
+  <circle class="fil0" cx="624.448" cy="202.299" r="34.125"/>
+  <path class="fil1" d="M624.629 172.548c14.883,0 27.194,11.014 29.225,25.335 0.087,0.613 -0.222,1.187 -0.782,1.452 -0.559,0.265 -1.028,-0.134 -1.619,-0.318 -5.581,-1.731 -15.508,-5.784 -26.824,-5.784 -11.316,0 -21.243,4.054 -26.825,5.786 -0.591,0.183 -1.059,0.582 -1.619,0.318 -0.559,-0.265 -0.868,-0.84 -0.782,-1.452 2.032,-14.322 14.343,-25.337 29.226,-25.337z"/>
+ </g>
+</svg>

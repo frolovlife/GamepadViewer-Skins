@@ -1,0 +1,173 @@
+/*BEGIN SNES (Europe) Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(snes/base-snes-eu.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(snes/base-snes-eu.svg);
+}
+
+.custom.disconnected {
+  background-image: url(snes/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Shifts */
+.custom .bumpers {
+}
+
+.custom .bumper {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .bumper.left {
+  background-image: url(snes/shift-left.svg);
+}
+
+.custom .bumper.left.pressed {
+  background-image: url(snes/pressed-shift-left.svg);
+}
+
+.custom .bumper.right {
+  background-image: url(snes/shift-right.svg);
+}
+
+.custom .bumper.right.pressed {
+  background-image: url(snes/pressed-shift-right.svg);
+}
+
+/* Start and Select. */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(snes/start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(snes/pressed-start.svg);
+}
+
+.custom .back {
+  background-image: url(snes/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(snes/pressed-select.svg);
+}
+
+/* A, B, X and Y  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(snes/button-b-sfc.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(snes/pressed-button-b.svg);
+}
+
+.custom .b {
+  background-image: url(snes/button-a-sfc.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(snes/pressed-button-a.svg);
+}
+
+.custom .x {
+  background-image: url(snes/button-y-sfc.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(snes/pressed-button-y-sfc.svg);
+}
+
+.custom .y {
+  background-image: url(snes/button-x-sfc.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(snes/pressed-button-x-sfc.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  /* background-image: url(snes/dpad.svg); */
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(snes/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(snes/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(snes/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(snes/pressed-dpad-right.svg);
+}

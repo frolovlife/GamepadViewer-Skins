@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 908 396" width="908px" height="396px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:url(#id0)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="375.742" y1="242.653" x2="367.189" y2="231.525">
+   <stop offset="0" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:gray"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M384.199 210.951c4.999,-3.767 12.105,-2.768 15.873,2.231 3.767,5 2.768,12.107 -2.231,15.873l-39.842 30.021c-4.998,3.767 -12.105,2.769 -15.873,-2.231 -3.766,-4.999 -2.767,-12.105 2.232,-15.872l39.841 -30.022z"/>
+ </g>
+</svg>
