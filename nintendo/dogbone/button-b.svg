@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 860 374" width="860px" height="374px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 860 374" width="860px" height="374px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd"  xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
     .fil0 {fill:#D00012}
-    .fil1 {fill:black;fill-opacity:0.1}
+    .fil1 {fill:white;fill-opacity:0.5}
   </style>
  </defs>
  <g>
   <circle class="fil0" cx="623.031" cy="212.29" r="34.125"/>
-  <path class="fil1" d="M623.031 242.128c-15.044,0 -27.488,-11.134 -29.541,-25.61 -0.088,-0.619 0.225,-1.2 0.79,-1.468 0.566,-0.267 1.202,-0.127 1.637,0.322 6.171,6.347 15.676,10.508 27.114,10.508 11.438,0 20.943,-4.161 27.114,-10.508 0.435,-0.448 1.071,-0.589 1.637,-0.322 0.565,0.268 0.878,0.849 0.79,1.468 -2.053,14.476 -14.497,25.61 -29.541,25.61z"/>
+  <path class="fil1" d="M623.031 180.31c14.43,0 26.628,9.557 30.609,22.687 0.076,0.253 -0.056,0.519 -0.302,0.613 -0.254,0.096 -0.539,-0.029 -0.64,-0.281 -4.736,-11.737 -16.234,-20.019 -29.667,-20.019 -13.436,0 -24.936,8.286 -29.67,20.026 -0.101,0.251 -0.386,0.377 -0.639,0.281 -0.247,-0.093 -0.379,-0.36 -0.302,-0.612 3.978,-13.134 16.178,-22.695 30.611,-22.695z"/>
  </g>
 </svg>
