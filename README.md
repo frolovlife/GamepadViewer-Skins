@@ -31,8 +31,8 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [8BitDo M30 (black)](#8bitdo-m30-black)
   - [8BitDo M30 (white)](#8bitdo-m30-white)
 - [**Sega**](#sega)
-  - [Sega Saturn (model 2 black)](#sega-saturn-model-2-black)
-  - [Sega Saturn (model 2 white)](#sega-saturn-model-2-white)
+  - [Sega Saturn model 2 (black)](#sega-saturn-model-2-black)
+  - [Sega Saturn model 2 (white)](#sega-saturn-model-2-white)
 - [**Nintendo**](#nintendo)
   - [Famicom](#famicom)
   - [NES «Dogbone»](#nes-dogbone)
@@ -75,7 +75,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 ## Sega
 
-### Sega Saturn (model 2 black)
+### Sega Saturn model 2 (black)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn/preview-m2-black.svg" width="40%"></p>
 
@@ -83,7 +83,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-model2-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-model2-black.css)
 
-### Sega Saturn (model 2 white)
+### Sega Saturn model 2 (white)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn/preview-m2-white.svg" width="40%"></p>
 
