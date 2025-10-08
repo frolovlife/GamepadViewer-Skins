@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 860 374" width="860px" height="374px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd"  xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 860 374" width="860px" height="374px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
     .fil1 {fill:#E00000}
@@ -12,3 +12,4 @@
   <path class="fil1" d="M205.752 187.374c0,-5.048 -2.047,-9.619 -5.355,-12.927l-13.063 13.063 12.994 12.994c3.349,-3.382 5.424,-8.048 5.424,-13.13zm18.109 0.136l0 11.365c0,1.933 1.568,3.501 3.501,3.501 0.646,0 1.252,-0.176 1.772,-0.482l22.751 -11.253c1.232,-0.608 1.946,-1.845 1.947,-3.131 -0.001,-1.287 -0.715,-2.524 -1.947,-3.131l-22.751 -11.254c-0.52,-0.306 -1.126,-0.481 -1.772,-0.481 -1.933,0 -3.501,1.567 -3.501,3.5l0 11.366z"/>
  </g>
 </svg>
+
