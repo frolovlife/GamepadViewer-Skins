@@ -1,0 +1,15 @@
+# Ignore files
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.avif
+*.psd
+*.cdr
+*.ttf
+*.otf
+*.zip
+*.7z
+
+# Ignore files in subdirectories
+**/src/*
