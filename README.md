@@ -31,6 +31,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [8BitDo M30 (black)](#8bitdo-m30-black)
   - [8BitDo M30 (white)](#8bitdo-m30-white)
 - [**Sega**](#sega)
+  - [Sega Mega Drive 2 (Genesis 2)](#sega-mega-drive-2-genesis-2)
   - [Sega Saturn model 2 (black)](#sega-saturn-model-2-black)
   - [Sega Saturn model 2 (white)](#sega-saturn-model-2-white)
 - [**Nintendo**](#nintendo)
@@ -74,6 +75,15 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css)
 
 ## Sega
+
+### Sega Mega Drive 2 (Genesis 2)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview.svg" width="40%"></p>
+
+- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
+- [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: LStick to DPad, LT to Select)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (special for 8BitDo M30)
+- [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
 
 ### Sega Saturn model 2 (black)
 
