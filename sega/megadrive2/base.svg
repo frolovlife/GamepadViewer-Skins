@@ -6,7 +6,7 @@
     .str0 {stroke:#323232;stroke-width:3}
     .str1 {stroke:#333333;stroke-width:4}
     .fil10 {fill:#080808}
-    .fil9 {fill:#101010}
+    .fil9 {fill:#181818}
     .fil11 {fill:#2A2A2A}
     .fil13 {fill:#333333}
     .fil12 {fill:#414141}
@@ -90,3 +90,4 @@
   </g>
  </g>
 </svg>
+
