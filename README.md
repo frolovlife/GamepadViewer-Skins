@@ -1,4 +1,4 @@
-# General
+# :information_source: General
 
 These are custom skins of various controllers for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
 
@@ -7,7 +7,7 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
 
 From time to time, I'll be tweaking existing skins and adding new ones. Please Star this project to avoid losing it.
 
-## How to use with OBS Studio, StreamLabs etc.
+## :tv: How to use with OBS Studio, StreamLabs etc.
 
 1. Choose the controller skin you want to display on your stream below.
 2. Copy the link for OBS Studio with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapped LStick to DPad.*
@@ -16,7 +16,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 > [!NOTE]
 > All links for OBS Studio are designed for the first player's controller. To display the second, third, or fourth player's controller, replace `p=1` in the link with `p=2`, `p=3`, or `p=4` respectively.
 
-## How to use with GamepadViewer's URL generator
+## :wrench: How to use with GamepadViewer's URL generator
 
 1. Choose the controller skin you want to display on your stream below.
 2. Copy the raw CSS link of these skin.
@@ -25,7 +25,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 5. Configure the remaining parameters as desired and copy the generated link.
 6. Paste the generated link into the Browser source address bar in OBS Studio and click «OK».
 
-# Controller skins
+# :video_game: Controller skins
 
 - [8BitDo](#8bitdo)
   - [8BitDo M30 (black)](#8bitdo-m30-black)
