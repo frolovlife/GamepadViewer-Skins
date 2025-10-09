@@ -6,7 +6,7 @@
     .str0 {stroke:#323232;stroke-width:3}
     .str1 {stroke:#333333;stroke-width:4}
     .fil10 {fill:black}
-    .fil9 {fill:black}
+    .fil9 {fill:#101010}
     .fil11 {fill:#2A2A2A}
     .fil13 {fill:#333333}
     .fil12 {fill:#414141}
@@ -74,12 +74,12 @@
   <g id="holes">
    <circle class="fil9" cx="226.098" cy="278.501" r="112.774"/>
    <path class="fil10" d="M455.589 275.852c-9.326,0 -16.892,-7.563 -16.892,-16.893 0,-9.329 7.563,-16.893 16.892,-16.893 19.618,0 39.235,0 58.853,0 9.329,0 16.892,7.564 16.892,16.893 0,9.33 -7.564,16.893 -16.892,16.893 -19.618,0 -39.235,0 -58.853,0z"/>
-   <circle class="fil9" cx="649.264" cy="255.748" r="38.246"/>
-   <circle class="fil9" cx="739.517" cy="211.069" r="38.246"/>
-   <circle class="fil9" cx="833.726" cy="183.376" r="38.246"/>
-   <circle class="fil9" cx="681.49" cy="370.777" r="50.558"/>
-   <circle class="fil9" cx="781.454" cy="314.971" r="50.558"/>
-   <circle class="fil9" cx="891.359" cy="282.977" r="50.558"/>
+   <circle class="fil10" cx="649.264" cy="255.748" r="38.246"/>
+   <circle class="fil10" cx="739.517" cy="211.069" r="38.246"/>
+   <circle class="fil10" cx="833.726" cy="183.376" r="38.246"/>
+   <circle class="fil10" cx="681.49" cy="370.777" r="50.558"/>
+   <circle class="fil10" cx="781.454" cy="314.971" r="50.558"/>
+   <circle class="fil10" cx="891.359" cy="282.977" r="50.558"/>
   </g>
   <g id="dpad">
    <circle class="fil11" cx="226.098" cy="278.501" r="101.123"/>
@@ -90,3 +90,4 @@
   </g>
  </g>
 </svg>
+
