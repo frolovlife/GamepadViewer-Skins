@@ -1,0 +1,128 @@
+/*BEGIN NES Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(nes/base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(nes/base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(nes/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Start and Select */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(nes/start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(nes/pressed-start.svg);
+}
+
+.custom .back {
+  background-image: url(nes/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(nes/pressed-select.svg);
+}
+
+/* A and B */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(nes/button-b.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(nes/pressed-button-b.svg);
+}
+
+.custom .b {
+  background-image: url(nes/button-a.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(nes/pressed-button-a.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  /* background-image: url(nes/dpad.svg); */
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(nes/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(nes/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(nes/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(nes/pressed-dpad-right.svg);
+}
