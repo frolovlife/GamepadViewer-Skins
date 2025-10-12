@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg viewBox="0 0 562 316" xml:space="preserve" width="562px" height="316px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xml:space="preserve" viewBox="0 0 562 316" width="562px" height="316px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
     .fil4 {fill:black;fill-opacity:0.05}
     .fil3 {fill:black;fill-opacity:0.3}
-    .fil2 {fill:url(#id0)}
-    .fil1 {fill:url(#id1)}
+    .fil1 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
     .fil0 {fill:url(#id2);fill-opacity:0.6}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="432.169" y1="182.38" x2="432.169" y2="142.312">
-   <stop offset="0" style="stop-opacity:1; stop-color:#FFD633"/>
-   <stop offset="0.4" style="stop-opacity:1; stop-color:#FFCF0D"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#D9B00B"/>
-  </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="432.169" y1="184.268" x2="432.169" y2="140.425">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="432.169" y1="184.268" x2="432.169" y2="140.425">
    <stop offset="0" style="stop-opacity:1; stop-color:#F0C000"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#FFCF0D"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#FFD943"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="432.169" y1="186.157" x2="432.169" y2="138.535">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="432.169" y1="182.38" x2="432.169" y2="142.312">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFD633"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#FFCF0D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9B00B"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="432.169" y1="186.157" x2="432.169" y2="138.535">
   </linearGradient>
  </defs>
  <g>
