@@ -4,9 +4,9 @@
  <defs>
   <style type="text/css">
     .str0 {stroke:#404040;stroke-width:2}
-    .fil10 {fill:#080808}
-    .fil9 {fill:#080808}
-    .fil7 {fill:#181818}
+    .fil10 {fill:#101010}
+    .fil9 {fill:#101010}
+    .fil7 {fill:#202020}
     .fil4 {fill:#1A1A1A}
     .fil13 {fill:#1F1F1F}
     .fil16 {fill:#272727}
@@ -164,5 +164,6 @@
   </g>
  </g>
 </svg>
+
 
 
