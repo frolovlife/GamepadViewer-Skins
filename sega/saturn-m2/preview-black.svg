@@ -22,22 +22,22 @@
     .fil18 {fill:#303030;fill-opacity:0.7}
     .fil1 {fill:url(#id0)}
     .fil11 {fill:url(#id1)}
-    .fil28 {fill:url(#id2)}
+    .fil29 {fill:url(#id2)}
     .fil3 {fill:url(#id3)}
     .fil2 {fill:url(#id4)}
     .fil26 {fill:url(#id5)}
     .fil15 {fill:url(#id6)}
-    .fil29 {fill:url(#id7)}
-    .fil21 {fill:url(#id8)}
-    .fil22 {fill:url(#id9)}
-    .fil27 {fill:url(#id10)}
-    .fil5 {fill:url(#id11)}
-    .fil25 {fill:url(#id12);fill-opacity:0.6}
-    .fil20 {fill:url(#id13);fill-opacity:0.7}
+    .fil21 {fill:url(#id7)}
+    .fil22 {fill:url(#id8)}
+    .fil27 {fill:url(#id9)}
+    .fil5 {fill:url(#id10)}
+    .fil25 {fill:url(#id11);fill-opacity:0.6}
+    .fil20 {fill:url(#id12);fill-opacity:0.6}
+    .fil28 {fill:url(#id13);fill-opacity:0.6}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="281" y1="314.98" x2="281" y2="6.943">
-   <stop offset="0" style="stop-opacity:1; stop-color:#181818"/>
-   <stop offset="0.45" style="stop-opacity:1; stop-color:#323232"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#1A1A1A"/>
+   <stop offset="0.45" style="stop-opacity:1; stop-color:#333333"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#4D4D4D"/>
   </linearGradient>
   <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="136.675" y1="195.41" x2="136.675" y2="103.587">
@@ -45,8 +45,8 @@
    <stop offset="0.5" style="stop-opacity:1; stop-color:#333333"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#292929"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="432.169" y1="142.315" x2="432.169" y2="182.378">
-   <stop offset="0" style="stop-opacity:1; stop-color:#202020"/>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="491.389" y1="121.223" x2="491.389" y2="161.286">
+   <stop offset="0" style="stop-opacity:1; stop-color:#262626"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#404040"/>
   </linearGradient>
@@ -55,11 +55,11 @@
    <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
   </linearGradient>
   <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="281" y1="281.464" x2="281" y2="32.281">
-   <stop offset="0" style="stop-opacity:1; stop-color:#121212"/>
-   <stop offset="0.65" style="stop-opacity:1; stop-color:#3C3C3C"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#181818"/>
+   <stop offset="0.65" style="stop-opacity:1; stop-color:#3F3F3F"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#666666"/>
   </linearGradient>
-  <linearGradient id="id5" gradientUnits="objectBoundingBox" x1="50%" y1="50%" x2="0%" y2="0%">
+  <linearGradient id="id5" gradientUnits="objectBoundingBox" x1="50%" y1="50%" x2="50%" y2="0%">
    <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#484848"/>
   </linearGradient>
@@ -68,29 +68,29 @@
    <stop offset="0.5" style="stop-opacity:1; stop-color:#3A3A3A"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#444444"/>
   </linearGradient>
-  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id2" x1="491.389" y1="121.223" x2="491.389" y2="161.286">
-  </linearGradient>
-  <linearGradient id="id8" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="0%">
-   <stop offset="0" style="stop-opacity:1; stop-color:#202020"/>
+  <linearGradient id="id7" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2A2A2A"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#606060"/>
   </linearGradient>
-  <linearGradient id="id9" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="0%">
-   <stop offset="0" style="stop-opacity:1; stop-color:#222222"/>
-   <stop offset="0.6" style="stop-opacity:1; stop-color:#383838"/>
+  <linearGradient id="id8" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2C2C2C"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#343434"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
   </linearGradient>
-  <linearGradient id="id10" gradientUnits="userSpaceOnUse" xlink:href="#id2" x1="379.44" y1="177.806" x2="379.44" y2="217.869">
+  <linearGradient id="id9" gradientUnits="objectBoundingBox" xlink:href="#id2" x1="50%" y1="1.131e-05%" x2="50%" y2="100%">
   </linearGradient>
-  <linearGradient id="id11" gradientUnits="userSpaceOnUse" x1="425.325" y1="221.916" x2="425.325" y2="77.081">
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="425.325" y1="221.916" x2="425.325" y2="77.081">
    <stop offset="0" style="stop-opacity:1; stop-color:#505050"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#1A1A1A"/>
   </linearGradient>
-  <linearGradient id="id12" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="50%" y1="50%" x2="50%" y2="0%">
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id5" x1="379.44" y1="197.838" x2="379.44" y2="174.026">
   </linearGradient>
-  <linearGradient id="id13" gradientUnits="objectBoundingBox" x1="50%" y1="50%" x2="50%" y2="0%">
-   <stop offset="0" style="stop-opacity:1; stop-color:#202020"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#585858"/>
+  <linearGradient id="id12" gradientUnits="objectBoundingBox" x1="50%" y1="50%" x2="50%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#606060"/>
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="50%" y1="50%" x2="50%" y2="0%">
   </linearGradient>
  </defs>
  <g>
@@ -150,15 +150,15 @@
   <circle class="fil27" cx="379.44" cy="197.837" r="20.032"/>
   <path class="fil23" d="M379.44 177.806c11.063,0 20.031,8.968 20.031,20.031l0 0.001c-4.923,-5.496 -12.073,-8.955 -20.031,-8.955 -7.959,0 -15.109,3.46 -20.032,8.956l0 -0.002c0,-11.063 8.969,-20.031 20.032,-20.031z"/>
   <path class="fil24" d="M376.157 200.985l0.64 -5.764 5.549 1.619 -6.189 4.145zm3.061 4.27l-0.681 -1.018 -2.119 1.419c-0.585,0.393 -0.873,0.384 -0.828,-0.091 0,-0.181 0.037,-0.368 0.064,-0.568l0.292 -2.397 7.946 -5.321 2.272 0.679 0.726 0.18c0.257,0.205 0.207,0.362 -0.326,0.723l-0.026 0.017 -2.091 1.401 0.682 1.017 9.422 -6.311 -0.682 -1.017c-0.373,0.249 -0.658,0.448 -1.059,0.649 -0.734,0.35 -1.106,0.398 -1.935,0.186l-12.497 -3.524c-1.468,0.984 -2.936,1.967 -4.403,2.95l-1.666 13.009c-0.147,1.047 -0.258,1.243 -0.945,1.784l-0.298 0.219 0 0 -0.083 0.056 -0.613 0.411 0.681 1.017 0.697 -0.466 7.47 -5.004z"/>
-  <path class="fil25" d="M432.169 138.536c13.151,0 23.811,10.661 23.811,23.811 0,13.15 -10.66,23.811 -23.811,23.811 -13.15,0 -23.811,-10.661 -23.811,-23.811 0,-13.15 10.661,-23.811 23.811,-23.811z"/>
+  <path class="fil28" d="M432.169 138.536c13.151,0 23.811,10.661 23.811,23.811 0,13.15 -10.66,23.811 -23.811,23.811 -13.15,0 -23.811,-10.661 -23.811,-23.811 0,-13.15 10.661,-23.811 23.811,-23.811z"/>
   <circle class="fil26" cx="432.169" cy="162.346" r="21.921"/>
-  <circle class="fil28" cx="432.169" cy="162.346" r="20.032"/>
+  <circle class="fil27" cx="432.169" cy="162.346" r="20.032"/>
   <path class="fil23" d="M432.169 142.315c11.063,0 20.032,8.968 20.032,20.031l0 0.001c-4.923,-5.496 -12.073,-8.955 -20.032,-8.955 -7.959,0 -15.109,3.46 -20.031,8.956l0 -0.002c0,-11.063 8.968,-20.031 20.031,-20.031z"/>
   <path class="fil24" d="M431.509 168.037l-1.937 -3.832 4.432 -2.241c3.653,-1.847 5.859,-1.796 6.062,-0.206 0.139,1.094 -1.16,2.541 -3.885,3.918l-4.672 2.361zm-2.52 -4.985l-1.793 -3.549 4.222 -2.134c3.085,-1.559 5.036,-1.568 5.311,-0.203 0.185,1.034 -0.576,2.058 -2.484,3.192 -0.244,0.155 -0.478,0.278 -0.729,0.405l-0.014 0.007 -0.013 0.007 -0.014 0.007 -0.014 0.007 -0.014 0.007 -0.014 0.007 -0.014 0.008 -0.014 0.006 -0.013 0.007 -4.403 2.226zm9.017 3.112c4.521,-2.286 6.487,-4.05 7.095,-5.673 0.104,-0.316 0.17,-0.631 0.146,-0.901 -0.083,-1.876 -2.335,-2.241 -6.336,-0.858 -0.157,0.061 -0.322,0.106 -0.479,0.167l0.299 -0.226 0.397 -0.332c1.644,-1.358 2.375,-2.441 2.348,-3.387 -0.026,-2.355 -3.349,-2.386 -9.757,0.853l-13.954 7.053 0.56 1.108 2.306 -1.166 0.005 -0.002 0.006 -0.003 0.005 -0.003 0.006 -0.003 0.005 -0.003 0.005 -0.002 0.006 -0.003 0.005 -0.002 0.006 -0.003 0.005 -0.003 0.005 -0.002 0.006 -0.003 0.004 -0.003 0.006 -0.002 0.005 -0.003 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.004 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.005 -0.003 0.005 -0.002 0.005 -0.002 0.005 -0.003 0.005 -0.003 0.005 -0.002 0.006 -0.003 0.005 -0.003 0.005 -0.002 0.005 -0.003 0.006 -0.003 0.005 -0.002 0.006 -0.003 0.005 -0.003 0.005 -0.003 0.006 -0.002 0.005 -0.003 0.006 -0.003c1.28,-0.591 1.446,-0.562 1.809,0.157l3.208 6.348 0.258 0.51c0.355,0.703 0.199,0.914 -1.006,1.58 -0.068,0.05 -0.162,0.1 -0.26,0.15l-0.006 0.002 -0.005 0.003 -0.006 0.003 -0.006 0.003 -0.005 0.003 -0.006 0.003 -0.005 0.002 -0.006 0.004 -0.006 0.002 -0.005 0.003 -0.006 0.003 -2.246 1.135 0.553 1.093 14.792 -7.476z"/>
-  <path class="fil25" d="M491.389 117.444c13.15,0 23.811,10.66 23.811,23.811 0,13.15 -10.661,23.811 -23.811,23.811 -13.15,0 -23.811,-10.661 -23.811,-23.811 0,-13.151 10.661,-23.811 23.811,-23.811z"/>
-  <circle class="fil26" cx="491.389" cy="141.254" r="21.921"/>
-  <path class="fil29" d="M491.389 121.223c11.063,0 20.031,8.969 20.031,20.031 0,11.063 -8.968,20.032 -20.031,20.032 -11.063,0 -20.032,-8.969 -20.032,-20.032 0,-11.062 8.969,-20.031 20.032,-20.031z"/>
-  <path class="fil23" d="M491.389 121.223c11.063,0 20.031,8.968 20.031,20.031l0 0.001c-4.922,-5.496 -12.072,-8.955 -20.031,-8.955 -7.959,0 -15.109,3.46 -20.032,8.956l0 -0.002c0,-11.063 8.969,-20.031 20.032,-20.031z"/>
+  <path class="fil28" d="M491.389 117.444c13.15,0 23.811,10.661 23.811,23.811 0,13.15 -10.661,23.811 -23.811,23.811 -13.15,0 -23.811,-10.661 -23.811,-23.811 0,-13.15 10.661,-23.811 23.811,-23.811z"/>
+  <circle class="fil26" cx="491.389" cy="141.255" r="21.921"/>
+  <circle class="fil29" cx="491.389" cy="141.255" r="20.032"/>
+  <path class="fil23" d="M491.389 121.223c11.063,0 20.031,8.969 20.031,20.032l0 0c-4.922,-5.495 -12.072,-8.954 -20.031,-8.954 -7.959,0 -15.109,3.459 -20.032,8.955l0 -0.001c0,-11.063 8.969,-20.032 20.032,-20.032z"/>
   <path class="fil24" d="M497.55 133.63c-2.222,-0.146 -4.991,0.346 -7.742,1.391 -1.446,0.493 -2.901,1.141 -4.284,1.932 -4.313,2.481 -6.461,5.626 -5.406,8.456 0.749,1.977 2.775,3.048 5.65,3.207 1.928,0.108 4.065,-0.198 6.446,-0.914 0.806,-0.24 1.569,-0.495 2.287,-0.765 5.846,-2.02 9.027,-4.919 8.828,-7.483 0.01,-0.271 -0.05,-0.535 -0.167,-0.76 -1.062,0.382 -2.125,0.765 -3.187,1.148 0.068,0.189 0.073,0.402 0.072,0.598 -0.071,1.902 -2.118,3.851 -5.259,5.076 -0.478,0.159 -0.978,0.301 -1.497,0.425 -3.087,0.738 -5.751,0.271 -7.145,-1.616 -2.286,-3.175 0.255,-6.593 4.741,-8.347 0.312,-0.103 0.632,-0.199 0.959,-0.287 3.284,-0.88 5.786,-0.569 6.931,0.927 0.12,0.135 0.209,0.281 0.266,0.439 1.062,-0.383 2.125,-0.766 3.187,-1.149l-1.558 -4.324c-0.968,0.349 -1.936,0.698 -2.904,1.046l-0.218 1z"/>
  </g>
 </svg>
