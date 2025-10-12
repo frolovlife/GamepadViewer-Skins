@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg viewBox="0 0 562 316" xml:space="preserve" width="562px" height="316px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 562 316" width="562px" height="316px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
     .fil3 {fill:black;fill-opacity:0.1}
     .fil4 {fill:black;fill-opacity:0.5}
     .fil1 {fill:url(#id0)}
     .fil2 {fill:url(#id1)}
-    .fil0 {fill:url(#id2);fill-opacity:0.7}
+    .fil0 {fill:url(#id2);fill-opacity:0.6}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="452.582" y1="104.293" x2="452.582" y2="73.301">
-   <stop offset="0" style="stop-opacity:1; stop-color:#141414"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#2A2A2A"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#606060"/>
   </linearGradient>
   <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="452.582" y1="102.403" x2="452.582" y2="75.19">
-   <stop offset="0" style="stop-opacity:1; stop-color:#181818"/>
-   <stop offset="0.6" style="stop-opacity:1; stop-color:#383838"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#2C2C2C"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#343434"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="452.582" y1="106.183" x2="452.582" y2="71.411">
-   <stop offset="0" style="stop-opacity:1; stop-color:#1C1C1C"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#424242"/>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="452.582" y1="88.797" x2="452.582" y2="71.411">
+   <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#606060"/>
   </linearGradient>
  </defs>
  <g>
