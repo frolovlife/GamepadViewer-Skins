@@ -1,4 +1,4 @@
-# :information_source: General
+# :information_source: General info
 
 These are custom skins of various controllers for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
 
