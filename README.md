@@ -39,7 +39,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [NES](#nes)
   - [NES «Dogbone»](#nes-dogbone)
   - [Super Famicom](#super-famicom)
-  - [SNES](#snes)
+  - [SNES (USA)](#snes-usa)
   - [SNES (Europe)](#snes-europe)
 - [**Famiclones**](#famiclones)
   - [Dendy Classic](#dendy-classic)
@@ -156,7 +156,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: LStick to DPad, LT to RB)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"6"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
 - [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css)
 
-### SNES
+### SNES (USA)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/snes/preview-snes.svg" width="40%"></p>
 
