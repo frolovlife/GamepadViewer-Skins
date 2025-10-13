@@ -5,7 +5,7 @@
   <style type="text/css">
     .str3 {stroke:#4D4D4D}
     .str0 {stroke:#B3B3B3;stroke-width:2}
-    .str1 {stroke:#F8F8F8;stroke-width:2.5}
+    .str1 {stroke:#E8E8E8;stroke-width:2.5}
     .str2 {stroke:#585858;stroke-linecap:round}
     .fil1 {fill:none}
     .fil5 {fill:#333333}
@@ -89,3 +89,4 @@
   </g>
  </g>
 </svg>
+
