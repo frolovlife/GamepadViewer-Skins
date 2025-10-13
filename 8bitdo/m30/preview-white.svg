@@ -6,12 +6,12 @@
     .str3 {stroke:#4D4D4D}
     .str0 {stroke:#B3B3B3;stroke-width:2}
     .str1 {stroke:#F8F8F8;stroke-width:2.5}
-    .str2 {stroke:#4D4D4D;stroke-linecap:round}
+    .str2 {stroke:#585858;stroke-linecap:round}
     .fil1 {fill:none}
     .fil27 {fill:#00B870}
     .fil5 {fill:#333333}
     .fil4 {fill:#333333}
-    .fil6 {fill:#4D4D4D}
+    .fil6 {fill:#585858}
     .fil9 {fill:#606060}
     .fil8 {fill:#787878}
     .fil10 {fill:#909090}
