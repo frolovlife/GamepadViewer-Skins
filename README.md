@@ -34,6 +34,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [Sega Mega Drive 2 (Genesis 2)](#sega-mega-drive-2-genesis-2)
   - [Sega Saturn model 2 (black)](#sega-saturn-model-2-black)
   - [Sega Saturn model 2 (white)](#sega-saturn-model-2-white)
+  - [Sega Saturn model 2 (gray)](#sega-saturn-model-2-gray)
 - [**Nintendo**](#nintendo)
   - [Famicom](#famicom)
   - [NES](#nes)
@@ -101,6 +102,14 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css)
+
+### Sega Saturn model 2 (gray)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-gray.svg" width="40%"></p>
+
+- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
+- [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Raw CSS file for URL generator](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
 
 
 ## Nintendo
