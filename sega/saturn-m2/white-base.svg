@@ -37,7 +37,7 @@
   </linearGradient>
   <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="281" y1="281.464" x2="281" y2="116.208">
    <stop offset="0" style="stop-opacity:1; stop-color:#CCCCCC"/>
-   <stop offset="0.7" style="stop-opacity:1; stop-color:#E4E2E2"/>
+   <stop offset="0.7" style="stop-opacity:1; stop-color:#E4E4E4"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#FCFCFC"/>
   </linearGradient>
   <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="136.675" y1="195.41" x2="136.675" y2="103.586">
@@ -84,5 +84,6 @@
   </g>
  </g>
 </svg>
+
 
 
