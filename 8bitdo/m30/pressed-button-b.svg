@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 562 286" width="562px" height="286px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:red}
+    .fil3 {fill:black;fill-opacity:0.3}
+    .fil0 {fill:red;fill-opacity:0.5}
+    .fil2 {fill:url(#id0)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="429.401" y1="169.516" x2="429.401" y2="128.319">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D00000"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M429.401 124.351c13.568,0 24.567,10.999 24.567,24.567 0,13.567 -10.999,24.567 -24.567,24.567 -13.567,0 -24.567,-11 -24.567,-24.567 0,-13.568 11,-24.567 24.567,-24.567z"/>
+  <circle class="fil1" cx="429.401" cy="148.917" r="22.866"/>
+  <circle class="fil2" cx="429.401" cy="148.917" r="20.598"/>
+  <path class="fil3" d="M428.259 156.744l-2.39 -5.744 4.272 -1.778c2.017,-0.84 3.673,-0.276 4.4,1.538 0.774,1.794 0.008,3.366 -2.009,4.206l-4.273 1.778zm-1.537 -14.063c1.709,-0.712 3.081,-0.225 3.704,1.271 0.622,1.495 0.001,2.812 -1.708,3.523l-3.679 1.532 -1.996 -4.795 3.679 -1.531zm5.393 4.327c0.847,-1.244 0.943,-2.62 0.31,-4.139 -1.076,-2.587 -3.61,-3.454 -6.553,-2.229l-4.723 1.966c-0.593,0.247 -0.847,0.909 -0.61,1.479l2.559 6.147 3.478 8.355c0.247,0.594 0.895,0.88 1.489,0.633l5.317 -2.213c3.251,-1.354 4.565,-4.017 3.35,-6.936 -0.869,-2.089 -2.412,-3.118 -4.617,-3.063l0 0z"/>
+ </g>
+</svg>
