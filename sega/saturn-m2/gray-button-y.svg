@@ -3,25 +3,29 @@
 <svg xml:space="preserve" viewBox="0 0 562 316" width="562px" height="316px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
-    .fil4 {fill:#565676}
     .fil3 {fill:black;fill-opacity:0.05}
-    .fil1 {fill:url(#id0)}
-    .fil2 {fill:url(#id1)}
-    .fil0 {fill:url(#id2);fill-opacity:0.6}
+    .fil4 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+    .fil0 {fill:url(#id3);fill-opacity:0.6}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="403.405" y1="121.706" x2="403.405" y2="90.714">
-   <stop offset="0" style="stop-opacity:1; stop-color:#6A6A92"/>
-   <stop offset="0.5" style="stop-opacity:1; stop-color:#8E94C0"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#CED2E8"/>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="401.683" y1="112.315" x2="401.683" y2="98.346">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4A5E80"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#587098"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="403.405" y1="119.816" x2="403.405" y2="92.603">
-   <stop offset="0" style="stop-opacity:1; stop-color:#707098"/>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="403.405" y1="121.706" x2="403.405" y2="90.714">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4A5E80"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#8E94C0"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#B4BADC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D0DEF6"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="403.405" y1="106.21" x2="403.405" y2="88.824">
-   <stop offset="0" style="stop-opacity:1; stop-color:#646488"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#B4BADC"/>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="403.405" y1="119.816" x2="403.405" y2="92.603">
+   <stop offset="0" style="stop-opacity:1; stop-color:#587098"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#8098C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B6CAE6"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="403.405" y1="106.21" x2="403.405" y2="88.824">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4A5E80"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B6CAE6"/>
   </linearGradient>
  </defs>
  <g>
