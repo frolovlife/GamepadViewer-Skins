@@ -4,22 +4,26 @@
  <defs>
   <style type="text/css">
     .fil3 {fill:black;fill-opacity:0.1}
-    .fil4 {fill:#1A1A1A}
-    .fil1 {fill:url(#id0)}
-    .fil2 {fill:url(#id1)}
-    .fil0 {fill:url(#id2);fill-opacity:0.6}
+    .fil4 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+    .fil0 {fill:url(#id3);fill-opacity:0.6}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="452.582" y1="104.293" x2="452.582" y2="73.301">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="452.949" y1="95.563" x2="452.949" y2="82.095">
+   <stop offset="0" style="stop-opacity:1; stop-color:#101010"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1C1C1C"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="452.582" y1="104.293" x2="452.582" y2="73.301">
    <stop offset="0" style="stop-opacity:1; stop-color:#2A2A2A"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#606060"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="452.582" y1="102.403" x2="452.582" y2="75.19">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="452.582" y1="102.403" x2="452.582" y2="75.19">
    <stop offset="0" style="stop-opacity:1; stop-color:#2C2C2C"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#343434"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="452.582" y1="88.797" x2="452.582" y2="71.411">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="452.582" y1="88.797" x2="452.582" y2="71.411">
    <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#606060"/>
   </linearGradient>
@@ -32,4 +36,3 @@
   <path class="fil4" d="M461.694 90.036l-1.129 -3.136c-0.726,0.262 -1.452,0.524 -2.179,0.785l0.169 0.467c0.036,0.1 0.053,0.219 0.09,0.32 0.17,1.169 -0.734,2.01 -3.29,2.931l-5.204 1.875 8.826 -10.227 -0.344 -0.956 -0.556 0.2 -13.874 4.999 1.137 3.157c0.689,-0.248 1.378,-0.496 2.067,-0.744l-0.174 -0.553c-0.418,-1.37 0.431,-2.153 3.877,-3.394l3.559 -1.282 -8.669 10.107 0.353 0.978 0.555 -0.2 14.786 -5.327z"/>
  </g>
 </svg>
-
