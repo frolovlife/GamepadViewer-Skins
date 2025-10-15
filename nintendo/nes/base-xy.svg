@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 472 204" width="472px" height="204px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xml:space="preserve" viewBox="0 0 472 204" width="472px" height="204px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
     .str0 {stroke:#1A1A1A;stroke-width:0.5}
@@ -61,8 +61,8 @@
   </g>
   <g id="holes">
    <path class="fil12" d="M44.534 138.398l21.712 0c1.04,0 1.888,0.848 1.888,1.888l0 21.712c0,1.04 0.848,1.888 1.888,1.888l26.809 0c1.04,0 1.888,-0.848 1.888,-1.888l0 -21.712c0,-1.04 0.848,-1.888 1.888,-1.888l21.712 0c1.04,0 1.888,-0.848 1.888,-1.888l0 -26.809c0,-1.04 -0.848,-1.888 -1.888,-1.888l-21.712 0c-1.04,0 -1.888,-0.848 -1.888,-1.888l0 -21.712c0,-1.04 -0.848,-1.888 -1.888,-1.888l-26.809 0c-1.04,0 -1.888,0.848 -1.888,1.888l0 21.712c0,1.04 -0.848,1.888 -1.888,1.888l-21.712 0c-1.04,0 -1.888,0.848 -1.888,1.888l0 26.809c0,1.04 0.848,1.888 1.888,1.888z"/>
-   <path class="fil12" d="M208.977 143.118c0,3.946 -3.228,7.174 -7.174,7.174l-23.032 0c-3.946,0 -7.174,-3.228 -7.174,-7.174 0,-3.946 3.228,-7.174 7.174,-7.174l23.032 0c3.946,0 7.174,3.228 7.174,7.174z"/>
-   <path class="fil12" d="M267.128 143.118c0,3.946 -3.228,7.174 -7.174,7.174l-23.033 0c-3.946,0 -7.174,-3.228 -7.174,-7.174 0,-3.946 3.228,-7.174 7.174,-7.174l23.033 0c3.946,0 7.174,3.228 7.174,7.174z"/>
+   <path class="fil12" d="M208.977 143.118c0,4.154 -3.398,7.552 -7.551,7.552l-22.278 0c-4.153,0 -7.551,-3.398 -7.551,-7.552 0,-4.153 3.398,-7.551 7.551,-7.551l22.278 0c4.153,0 7.551,3.398 7.551,7.551z"/>
+   <path class="fil12" d="M267.128 143.118c0,4.154 -3.399,7.552 -7.551,7.552l-22.279 0c-4.153,0 -7.551,-3.398 -7.551,-7.552 0,-4.153 3.398,-7.551 7.551,-7.551l22.279 0c4.153,0 7.551,3.398 7.551,7.551z"/>
    <circle class="fil12" cx="330.565" cy="83.458" r="20.957"/>
    <circle class="fil12" cx="390.981" cy="83.458" r="20.957"/>
    <circle class="fil12" cx="330.565" cy="143.118" r="20.957"/>
