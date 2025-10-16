@@ -101,7 +101,7 @@
 .custom .fstick {
 }
 
-.custom .up {
+.custom .fstick.up {
   position: absolute;
   background-size: 100%;
   background-position: center;
