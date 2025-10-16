@@ -367,5 +367,5 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/neogeo-cd/preview-v1.svg" width="40%"></p>
 
-This skin uses the LStick as a DPad. Creating a skin that uses the actual DPad is impossible because GamepadViewer doesn't support diagonal DPad presses.
+This skin uses the LStick as a DPad. Creating a skin that uses the real DPad is impossible because GamepadViewer doesn't support diagonal DPad presses.
 - [For OBS Studio etc. (without mapping)](https://overlay.gamepadviewer.com/gamepad/HJm1nBN05p?p=1)
