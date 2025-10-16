@@ -57,8 +57,6 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [NEC PC Engine PCE-TP2](#nec-pc-engine-pce-tp2)
   - [NEC PC Engine PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
   - [NEC PC-FX](#nec-pc-fx)
-- [**SNK**](#snk)
-  - [Neo-Geo CD](#neo-geo-cd)
 
 
 ## 8BitDo
@@ -359,13 +357,3 @@ With buttons X and Y
 - [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
-
-
-## SNK
-
-### Neo-Geo CD
-
-<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/neogeo-cd/preview-v1.svg" width="40%"></p>
-
-This skin uses the LStick as a DPad. Creating a skin that uses the real DPad is impossible because GamepadViewer doesn't support diagonal DPad presses.
-- [For OBS Studio etc. (without mapping)](https://overlay.gamepadviewer.com/gamepad/HJm1nBN05p?p=1)
