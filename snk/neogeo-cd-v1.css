@@ -107,34 +107,34 @@
   height: 100%;
 }
 
-.custom .fstick.up {
+.custom .up {
   background: url(neogeo-cd/fstick-up.svg);
 }
 
-.custom .fstick.down {
+.custom .down {
   background: url(neogeo-cd/fstick-down.svg);
 }
 
-.custom .fstick.left {
+.custom .left {
   background: url(neogeo-cd/fstick-left.svg);
 }
 
-.custom .fstick.right {
+.custom .right {
   background: url(neogeo-cd/fstick-right.svg);
 }
 
-.custom .fstick.up.right {
+.custom .up.right {
   background: url(neogeo-cd/fstick-up-right.svg);
 }
 
-.custom .fstick.up.left {
+.custom .up.left {
   background: url(neogeo-cd/fstick-up-left.svg);
 }
 
-.custom .fstick.down.right {
+.custom .down.right {
   background: url(neogeo-cd/fstick-down-right.svg);
 }
 
-.custom .fstick.down.left {
+.custom .down.left {
   background: url(neogeo-cd/fstick-down-left.svg);
 }
