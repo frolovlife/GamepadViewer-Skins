@@ -99,42 +99,42 @@
 
 /* Dpad */
 .custom .fstick {
-}
-
-.custom .fstick.up {
   position: absolute;
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
+}
+
+.custom .fstick.up {
   background: url(neogeo-cd/fstick-up.svg);
 }
 
-.custom .down {
+.custom .fstick.down {
   background: url(neogeo-cd/fstick-down.svg);
 }
 
-.custom .left {
+.custom .fstick.left {
   background: url(neogeo-cd/fstick-left.svg);
 }
 
-.custom .right {
+.custom .fstick.right {
   background: url(neogeo-cd/fstick-right.svg);
 }
 
-.custom .up.right {
+.custom .fstick.up.right {
   background: url(neogeo-cd/fstick-up-right.svg);
 }
 
-.custom .up.left {
+.custom .fstick.up.left {
   background: url(neogeo-cd/fstick-up-left.svg);
 }
 
-.custom .down.right {
+.custom .fstick.down.right {
   background: url(neogeo-cd/fstick-down-right.svg);
 }
 
-.custom .down.left {
+.custom .fstick.down.left {
   background: url(neogeo-cd/fstick-down-left.svg);
 }
