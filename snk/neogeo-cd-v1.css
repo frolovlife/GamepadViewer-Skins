@@ -99,15 +99,15 @@
 
 /* Dpad */
 .custom .fstick {
+}
+
+.custom .up {
   position: absolute;
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
-}
-
-.custom .up {
   background: url(neogeo-cd/fstick-up.svg);
 }
 
