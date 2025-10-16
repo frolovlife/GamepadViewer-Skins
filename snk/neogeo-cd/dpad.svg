@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 572 286" width="572px" height="286px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 92 91" width="92px" height="91px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
     .fil2 {fill:url(#id0)}
@@ -34,3 +34,4 @@
   <circle class="fil3" cx="46.305" cy="27.865" r="3.402"/>
  </g>
 </svg>
+
