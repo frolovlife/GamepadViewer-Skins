@@ -200,6 +200,6 @@
   background-image: url(m30/pressed-dpad-right.svg);
 }
 
-.custom .face.up.right.pressed {
+.custom .face.up.pressed.right.pressed {
   background-image: url(m30/pressed-button-c.svg);
 }
