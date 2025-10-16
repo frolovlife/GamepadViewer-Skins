@@ -1,0 +1,140 @@
+/*BEGIN Neo-Geo CD Controller (var.1) Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(neogeo-cd/base-v1.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(neogeo-cd/base-v1.svg);
+}
+
+.custom.disconnected {
+  background-image: url(neogeo-cd/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Start and Select */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(neogeo-cd/start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(neogeo-cd/pressed-start.svg);
+}
+
+.custom .back {
+  background-image: url(neogeo-cd/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(neogeo-cd/pressed-select.svg);
+}
+
+/* A, B, X and Y */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(neogeo-cd/button-a-v1.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(neogeo-cd/pressed-button-a.svg);
+}
+
+.custom .b {
+  background-image: url(neogeo-cd/button-b-v1.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(neogeo-cd/pressed-button-b.svg);
+}
+
+.custom .x {
+  background-image: url(neogeo-cd/button-c-v1.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(neogeo-cd/pressed-button-c.svg);
+}
+
+.custom .y {
+  background-image: url(neogeo-cd/button-d-v1.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(neogeo-cd/pressed-button-d.svg);
+}
+
+/* Dpad */
+.custom .fstick {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .fstick.up {
+  background: url(neogeo-cd/fstick-up.svg);
+}
+
+.custom .fstick.down {
+  background: url(neogeo-cd/fstick-down.svg);
+}
+
+.custom .fstick.left {
+  background: url(neogeo-cd/fstick-left.svg);
+}
+
+.custom .fstick.right {
+  background: url(neogeo-cd/fstick-right.svg);
+}
+
+.custom .fstick.up.right {
+  background: url(neogeo-cd/fstick-up-right.svg);
+}
+
+.custom .fstick.up.left {
+  background: url(neogeo-cd/fstick-up-left.svg);
+}
+
+.custom .fstick.down.right {
+  background: url(neogeo-cd/fstick-down-right.svg);
+}
+
+.custom .fstick.down.left {
+  background: url(neogeo-cd/fstick-down-left.svg);
+}
