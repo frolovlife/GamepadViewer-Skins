@@ -1,15 +1,6 @@
 /*BEGIN Neo-Geo CD Controller (var.1) Styling*/
 
 /* Main */
-.controller {
-  position: absolute;
-  background-size: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 100%;
-}
-
 .controller.custom {
   position: absolute;
   background-image: url(neogeo-cd/base-v1.svg);
