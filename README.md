@@ -57,6 +57,8 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [NEC PC Engine PCE-TP2](#nec-pc-engine-pce-tp2)
   - [NEC PC Engine PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
   - [NEC PC-FX](#nec-pc-fx)
+- [**SNK**](snk)
+  - [Neo-Geo CD](#neo-geo-cd)
 
 
 ## 8BitDo
@@ -65,7 +67,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/preview-black.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css)
 
@@ -73,7 +75,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/preview-white.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css)
 
@@ -83,7 +85,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
@@ -92,7 +94,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-black.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-black.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-black.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-black.css)
 
@@ -100,7 +102,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-white.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css)
 
@@ -108,7 +110,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-gray.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
 
@@ -120,14 +122,14 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/famicom/preview-famicom.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/famicom/preview-famicom-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom-xy.css)
 
@@ -136,14 +138,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/nes/preview.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/nes/preview-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/nes-xy.css)
 
@@ -151,7 +153,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/dogbone/preview.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/dogbone.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/dogbone.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/dogbone.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/dogbone.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/dogbone.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
@@ -161,7 +163,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/snes/preview-sfc.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, LT to RB)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"6"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/sfc.css)
@@ -170,7 +172,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/snes/preview-snes.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, LT to RB)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"6"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes.css)
@@ -179,7 +181,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/snes/preview-snes-eu.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes-eu.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes-eu.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes-eu.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, LT to RB)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes-eu.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"6"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/snes-eu.css)
@@ -191,7 +193,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/famiclones/dendy-classic/preview.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-classic.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-classic.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-classic.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-classic.css)
 
@@ -199,7 +201,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/famiclones/dendy-junior/preview-v1.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v1.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v1.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v1.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v1.css)
 
@@ -207,7 +209,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/famiclones/dendy-junior/preview-v2.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css)
 
@@ -219,14 +221,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd001.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd001-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd001.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd001-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd001-xy.css)
 
@@ -235,14 +237,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd002.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd002-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd002.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd002-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd002-xy.css)
 
@@ -251,14 +253,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd6.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd6-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd6.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd6-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd6-xy.css)
 
@@ -267,14 +269,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd8.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pd8-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd8.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pd8-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pd8-xy.css)
 
@@ -283,14 +285,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-tg16.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-tg16-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/tg16.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/tg16-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/tg16-xy.css)
 
@@ -299,14 +301,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pce-duo.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-pce-duo-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pce-duo-xy.css)
 
@@ -315,14 +317,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-td.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-td-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/td.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/td-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/td-xy.css)
 
@@ -331,14 +333,14 @@ With buttons X and Y
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-duo-r.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-engine/preview-duo-r-xy.svg" width="40%"></p>
 
 Original
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r.css)
 - [For OBS Studio etc. (with mapping: X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, X to A, A to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r.css)
 
 With buttons X and Y
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r-xy.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r-xy.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/duo-r-xy.css)
 
@@ -346,7 +348,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pce-tp1/preview.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-tp1.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-tp1.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pce-tp1.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pce-tp1.css)
 
@@ -354,6 +356,15 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nec/pc-fx/preview-pcfx.svg" width="40%"></p>
 
-- [For OBS Studio etc. (without mapping)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nec/pc-fx.css)
+
+
+## SNK
+
+### Neo-Geo CD
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/neogeo-cd/preview-v1.svg" width="40%"><br>This skin uses the LStick as a DPad and works on the <a href="https://beta.gamepadviewer.com" target="_blank">GamepadViewer Beta</a> platform.</p>
+
+- [For OBS Studio etc.](https://app.gpv.gg/g/HJm1nBN05p?p=1)
