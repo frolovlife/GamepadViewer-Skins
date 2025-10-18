@@ -1,3 +1,7 @@
+.container {
+  width: 100%;
+}
+
 .controller {
   position: absolute;
   top: 50%;
@@ -122,31 +126,31 @@
 }
 
 .custom .fstick.up {
-  background: url(neogeo-cd/fstick-up.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-up.svg) no-repeat;
 }
 
 .custom .fstick.down {
-  background: url(neogeo-cd/fstick-down.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-down.svg) no-repeat;
 }
 
 .custom .fstick.left {
-  background: url(neogeo-cd/fstick-left.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-left.svg) no-repeat;
 }
 
 .custom .fstick.right {
-  background: url(neogeo-cd/fstick-right.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-right.svg) no-repeat;
 }
 
 .custom .fstick.up.right {
-  background: url(neogeo-cd/fstick-up-right.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-up-right.svg) no-repeat;
 }
 
 .custom .fstick.up.left {
-  background: url(neogeo-cd/fstick-up-left.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-up-left.svg) no-repeat;
 }
 
 .custom .fstick.down.right {
-  background: url(neogeo-cd/fstick-down-right.svg) no-repeat center;
+  background: url(neogeo-cd/fstick-down-right.svg) no-repeat;
 }
 
 .custom .fstick.down.left {
