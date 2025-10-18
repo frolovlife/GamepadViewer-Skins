@@ -9,63 +9,36 @@
     .fil5 {fill:#080808}
     .fil1 {fill:#666666}
     .fil7 {fill:url(#id0)}
-    .fil14 {fill:url(#id1)}
-    .fil12 {fill:url(#id2)}
-    .fil13 {fill:url(#id3)}
-    .fil3 {fill:url(#id4)}
-    .fil4 {fill:url(#id5)}
-    .fil9 {fill:url(#id6)}
-    .fil11 {fill:url(#id7)}
-    .fil10 {fill:url(#id8)}
-    .fil6 {fill:url(#id9)}
-    .fil0 {fill:url(#id10)}
-    .fil8 {fill:url(#id11);fill-opacity:0.6}
+    .fil3 {fill:url(#id1)}
+    .fil4 {fill:url(#id2)}
+    .fil9 {fill:url(#id3)}
+    .fil6 {fill:url(#id4)}
+    .fil0 {fill:url(#id5)}
+    .fil8 {fill:url(#id6);fill-opacity:0.6}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="388.18" y1="217.543" x2="388.18" y2="44.45">
    <stop offset="0" style="stop-opacity:1; stop-color:#B3B3B3"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#CCCCCC"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="146.306" y1="116.046" x2="146.306" y2="112.644">
-   <stop offset="0" style="stop-opacity:1; stop-color:#181818"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#4D4D4D"/>
-  </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="146.306" y1="169.863" x2="146.306" y2="96.919">
-   <stop offset="0" style="stop-opacity:1; stop-color:#202020"/>
-   <stop offset="0.5" style="stop-opacity:1; stop-color:#2C2C2C"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#666666"/>
-  </linearGradient>
-  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="146.306" y1="105.045" x2="146.306" y2="161.737">
-   <stop offset="0" style="stop-opacity:1; stop-color:#181818"/>
-   <stop offset="0.65" style="stop-opacity:1; stop-color:#282828"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#383838"/>
-  </linearGradient>
-  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="146.306" y1="198.399" x2="146.306" y2="133.391">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="146.306" y1="198.399" x2="146.306" y2="133.391">
    <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#333333"/>
   </linearGradient>
-  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="146.306" y1="196.32" x2="146.306" y2="133.391">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="146.306" y1="196.32" x2="146.306" y2="133.391">
    <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#1A1A1A"/>
   </linearGradient>
-  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="146.305" y1="78.588" x2="146.305" y2="133.391">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="146.305" y1="78.588" x2="146.305" y2="133.391">
    <stop offset="0" style="stop-opacity:1; stop-color:#282828"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
   </linearGradient>
-  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="146.306" y1="94.919" x2="146.306" y2="133.391">
-   <stop offset="0" style="stop-opacity:1; stop-color:#383838"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="146.306" y1="223.817" x2="146.306" y2="42.965">
   </linearGradient>
-  <linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="146.305" y1="88.037" x2="146.305" y2="133.391">
-   <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#181818"/>
-  </linearGradient>
-  <linearGradient id="id9" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="146.306" y1="223.817" x2="146.306" y2="42.965">
-  </linearGradient>
-  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="72.796" y1="283.787" x2="72.796" y2="3.233">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="72.796" y1="283.787" x2="72.796" y2="3.233">
    <stop offset="0" style="stop-opacity:1; stop-color:#1A1A1A"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#4D4D4D"/>
   </linearGradient>
-  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id6" x1="146.305" y1="76.698" x2="146.305" y2="133.391">
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="146.305" y1="76.698" x2="146.305" y2="133.391">
   </linearGradient>
  </defs>
  <g>
@@ -93,13 +66,6 @@
    <circle class="fil5" cx="146.305" cy="133.391" r="61.039"/>
    <path class="fil8" d="M146.306 76.698c31.31,0 56.693,25.383 56.693,56.693 0,31.311 -25.383,56.693 -56.693,56.693 -31.311,0 -56.693,-25.382 -56.693,-56.693 0,-31.31 25.382,-56.693 56.693,-56.693z"/>
    <circle class="fil9" cx="146.305" cy="133.391" r="54.803"/>
-  </g>
-  <g id="dpad">
-   <circle class="fil10" cx="146.305" cy="133.391" r="45.354"/>
-   <circle class="fil11" cx="146.306" cy="133.391" r="38.472"/>
-   <circle class="fil12" cx="146.305" cy="133.391" r="36.472"/>
-   <circle class="fil13" cx="146.305" cy="133.391" r="28.346"/>
-   <circle class="fil14" cx="146.305" cy="115.365" r="3.402"/>
   </g>
  </g>
 </svg>
