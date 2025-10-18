@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1060 720" width="1060px" height="720px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:none}
+    .fil0 {fill:#080808}
+    .fil4 {fill:black;fill-opacity:0.1}
+    .fil3 {fill:white;fill-opacity:0.6}
+    .fil2 {fill:url(#id0)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="287.522" y1="266.094" x2="308.064" y2="382.595">
+   <stop offset="0" style="stop-opacity:1; stop-color:#484848"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#303030"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M277.793 265.196c0,-11.045 8.954,-20 20,-20 11.045,0 20,8.954 20,20l0 39.999c0,11.046 -8.955,20 -20,20 -11.046,0 -20,-8.955 -20,-20l0 -39.999z"/>
+  <ellipse class="fil1" cx="297.793" cy="265.195" rx="19.999" ry="20"/>
+  <circle class="fil2" cx="297.793" cy="324.345" r="59.149"/>
+  <path class="fil3" d="M299.971 276.751c-0.936,-3.062 -7.617,-3.737 -14.923,-1.507 -7.305,2.229 -12.469,6.519 -11.534,9.581 0.935,3.062 7.616,3.737 14.922,1.507 7.306,-2.229 12.47,-6.519 11.535,-9.581z"/>
+  <path class="fil4" d="M347.654 331.368c-13.156,19.344 -35.069,30.941 -58.484,30.941 -14.237,0 -28.146,-4.297 -39.897,-12.322 -2.435,-1.687 -4.797,-3.522 -7.034,-5.459 8.456,23.421 30.7,39.03 55.616,39.03 32.644,0 59.119,-26.459 59.119,-59.085 0,-3.325 -0.289,-6.665 -0.845,-9.94 -2.074,5.947 -4.935,11.63 -8.475,16.837l0 -0.002z"/>
+ </g>
+</svg>

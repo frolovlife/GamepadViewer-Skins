@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1060 720" width="1060px" height="720px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:url(#id0)}
+    .fil0 {fill:url(#id1);fill-opacity:0.5}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="720.723" y1="171.706" x2="733.718" y2="245.403">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="0.3" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C00000"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="719.344" y1="163.889" x2="735.095" y2="253.219">
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M727.22 163.2c25.048,0 45.354,20.306 45.354,45.354 0,25.048 -20.306,45.354 -45.354,45.354 -25.048,0 -45.355,-20.306 -45.355,-45.354 0,-25.048 20.307,-45.354 45.355,-45.354z"/>
+  <circle class="fil1" cx="727.22" cy="208.554" r="41.575"/>
+ </g>
+</svg>

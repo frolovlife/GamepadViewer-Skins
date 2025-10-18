@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1060 720" width="1060px" height="720px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil2 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil0 {fill:url(#id2);fill-opacity:0.5}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="645.668" y1="248.986" x2="658.794" y2="323.428">
+   <stop offset="0" style="stop-opacity:1; stop-color:#383838"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#202020"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="645.733" y1="249.358" x2="658.729" y2="323.055">
+   <stop offset="0" style="stop-opacity:1; stop-color:#707070"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#202020"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="644.355" y1="241.541" x2="660.106" y2="330.872">
+   <stop offset="0" style="stop-opacity:1; stop-color:#404040"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#202020"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M652.23 240.852c25.048,0 45.355,20.307 45.355,45.354 0,25.048 -20.307,45.355 -45.355,45.355 -25.048,0 -45.354,-20.307 -45.354,-45.355 0,-25.047 20.306,-45.354 45.354,-45.354z"/>
+  <circle class="fil1" cx="652.23" cy="286.207" r="41.575"/>
+  <circle class="fil2" cx="652.23" cy="286.207" r="37.795"/>
+ </g>
+</svg>
