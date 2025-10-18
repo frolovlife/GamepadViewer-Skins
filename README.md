@@ -58,6 +58,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
   - [NEC PC Engine PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
   - [NEC PC-FX](#nec-pc-fx)
 - [**SNK**](snk)
+  - [Neo-Geo AES](#neo-geo-aes)
   - [Neo-Geo CD](#neo-geo-cd)
 
 
@@ -362,6 +363,12 @@ With buttons X and Y
 
 
 ## SNK
+
+### Neo-Geo AES
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/aes/preview.svg" width="40%"></p>
+
+Under construction.
 
 ### Neo-Geo CD
 
