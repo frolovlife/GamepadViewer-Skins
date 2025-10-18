@@ -1,27 +1,10 @@
-.container {
-  width: 100%;
-}
-
-.controller {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin-top: 30px !important;
-  margin-left: 0px !important;
-}
-
-.controller.half {
-  margin-top: 0px !important;
-}
-
 /*BEGIN Neo-Geo CD Controller (var.1) Styling*/
 
 /* Main */
 .controller.custom {
   position: absolute;
   background-image: url(neogeo-cd/base-v1.svg);
-  background-size: 100%;
+  background-size: 50%;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
