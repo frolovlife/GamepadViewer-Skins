@@ -365,6 +365,8 @@ With buttons X and Y
 
 ### Neo-Geo CD
 
-<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/neogeo-cd/preview-v1.svg" width="40%"><br>This skin uses the LStick as a DPad and works on the <a href="https://beta.gamepadviewer.com" target="_blank">GamepadViewer Beta</a> platform.</p>
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/neogeo-cd/preview-v1.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://app.gpv.gg/g/HJm1nBN05p?p=1)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/snk/neogeo-cd-v1.css)
+- [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/snk/neogeo-cd-v1.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/snk/neogeo-cd-v1.css)
