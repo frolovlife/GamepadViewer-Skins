@@ -9,7 +9,7 @@
   background-repeat: no-repeat;
   width: 572px;
   height: 286px;
-  transform: scale(100%);
+  scale: 100%;
 }
 
 .controller.custom:not(.disconnected) {
