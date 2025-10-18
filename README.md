@@ -368,7 +368,7 @@ With buttons X and Y
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/aes/preview.svg" width="40%"></p>
 
-Under construction.
+*Under construction.*
 
 ### Neo-Geo CD
 
