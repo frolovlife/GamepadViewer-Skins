@@ -3,7 +3,7 @@
 /* Main */
 .controller.custom {
   position: absolute;
-  background-image: url(neogeo-cd/base-v1-beta.svg);
+  background-image: url(neogeo-cd/base-v1.svg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -13,7 +13,7 @@
 }
 
 .controller.custom:not(.disconnected) {
-  background-image: url(neogeo-cd/base-v1-beta.svg);
+  background-image: url(neogeo-cd/base-v1.svg);
 }
 
 .custom.disconnected {
