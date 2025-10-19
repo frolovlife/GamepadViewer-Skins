@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1060 720" width="1060px" height="720px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:#080808}
+    .fil0 {fill:#1A1A1A}
+    .fil5 {fill:black;fill-opacity:0.1}
+    .fil4 {fill:white;fill-opacity:0.6}
+    .fil3 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="215.161" y1="282.217" x2="235.703" y2="398.719">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F24540"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#CD150F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#680B08"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="205.432" y1="380.468" x2="245.432" y2="380.468">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B3B3B3"/>
+   <stop offset="0.3" style="stop-opacity:1; stop-color:#676767"/>
+   <stop offset="0.65" style="stop-opacity:1; stop-color:#1A1A1A"/>
+   <stop offset="0.858824" style="stop-opacity:1; stop-color:#595959"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <circle class="fil0" cx="225.432" cy="400.468" r="64.252"/>
+  <circle class="fil1" cx="225.432" cy="400.469" r="20.787"/>
+  <path class="fil2" d="M245.432 400.468c0,11.045 -8.954,20 -20,20 -11.046,0 -20,-8.954 -20,-20l0 -40c0,-11.046 8.954,-20 20,-20 11.046,0 20,8.955 20,20l0 40z"/>
+  <path class="fil3" d="M225.432 281.318c32.667,0 59.15,26.483 59.15,59.15 0,32.666 -26.483,59.149 -59.15,59.149 -32.667,0 -59.149,-26.483 -59.149,-59.149 0,-32.667 26.482,-59.15 59.149,-59.15z"/>
+  <path class="fil4" d="M227.61 292.874c-0.936,-3.062 -7.617,-3.737 -14.923,-1.507 -7.305,2.229 -12.469,6.519 -11.534,9.581 0.935,3.062 7.616,3.737 14.922,1.507 7.306,-2.229 12.47,-6.519 11.535,-9.581z"/>
+  <path class="fil5" d="M275.293 347.491c-13.156,19.344 -35.069,30.942 -58.484,30.942 -14.237,0 -28.146,-4.298 -39.897,-12.322 -2.435,-1.688 -4.797,-3.523 -7.033,-5.46 8.455,23.421 30.699,39.03 55.615,39.03 32.644,0 59.119,-26.459 59.119,-59.085 0,-3.325 -0.289,-6.665 -0.845,-9.94 -2.074,5.947 -4.935,11.63 -8.475,16.837l0 -0.002z"/>
+ </g>
+</svg>

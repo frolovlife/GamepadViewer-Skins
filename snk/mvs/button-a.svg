@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1060 720" width="1060px" height="720px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:url(#id0)}
+    .fil0 {fill:url(#id1)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="544.001" y1="381.118" x2="555.814" y2="448.116">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D83B36"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#C92C27"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9B2521"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="544.001" y1="381.118" x2="555.815" y2="448.115">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F5ADA3"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#C92C27"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#881F1C"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <circle class="fil0" cx="549.907" cy="414.617" r="37.795"/>
+  <circle class="fil1" cx="549.907" cy="414.617" r="34.016"/>
+ </g>
+</svg>
