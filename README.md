@@ -28,39 +28,20 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 # :video_game: Controller skins
 
 - [**8BitDo**](#8bitdo)
-  - [8BitDo M30 (black)](#8bitdo-m30-black)
-  - [8BitDo M30 (white)](#8bitdo-m30-white)
+  - 8BitDo M30 ([black](#8bitdo-m30-black), [white](#8bitdo-m30-white))
 - [**Sega**](#sega)
-  - [Sega Mega Drive 2 (Genesis 2)](#sega-mega-drive-2-genesis-2)
-  - [Sega Saturn model 2 (black)](#sega-saturn-model-2-black)
-  - [Sega Saturn model 2 (white)](#sega-saturn-model-2-white)
-  - [Sega Saturn model 2 (gray)](#sega-saturn-model-2-gray)
+  - Sega Mega Drive 2 / Genesis 2 ([Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe))
+  - Sega Saturn model 2 ([black](#sega-saturn-model-2-black), [white](#sega-saturn-model-2-white), [gray](#sega-saturn-model-2-gray))
 - [**Nintendo**](#nintendo)
-  - [Famicom](#famicom)
-  - [NES](#nes)
-  - [NES «Dogbone»](#nes-dogbone)
-  - [Super Famicom](#super-famicom)
-  - [SNES (USA)](#snes-usa)
-  - [SNES (Europe)](#snes-europe)
+  - 8-bit ([Famicom](#famicom), [NES](#nes), [NES «Dogbone»](#nes-dogbone))
+  - 16-bit ([Super Famicom](#super-famicom), [SNES USA](#snes-usa), [SNES Europe](#snes-europe))
 - [**Famiclones**](#famiclones)
-  - [Dendy Classic](#dendy-classic)
-  - [Dendy Junior (var. 1)](#dendy-junior-var-1)
-  - [Dendy Junior (var. 2)](#dendy-junior-var-2)
+  - Dendy ([Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2))
 - [**NEC**](#nec)
-  - [NEC PC Engine PI-PD001](#nec-pc-engine-pi-pd001)
-  - [NEC PC Engine PI-PD002](#nec-pc-engine-pi-pd002)
-  - [NEC PC Engine PI-PD6](#nec-pc-engine-pi-pd6)
-  - [NEC PC Engine PI-PD8](#nec-pc-engine-pi-pd8)
-  - [NEC TurboGrafx 16](#nec-turbografx-16)
-  - [NEC PC Engine Duo](#nec-pc-engine-duo)
-  - [NEC TurboDuo](#nec-turboduo)
-  - [NEC PC Engine PCE-TP2](#nec-pc-engine-pce-tp2)
-  - [NEC PC Engine PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
+  - PC Engine / TurboGrafx 16 ([PI-PD001](#nec-pc-engine-pi-pd001), [PI-PD002](#nec-pc-engine-pi-pd002), [PI-PD6](#nec-pc-engine-pi-pd6), [PI-PD8](#nec-pc-engine-pi-pd8), [TG 16](#nec-turbografx-16),  [PCE-Duo](#nec-pc-engine-duo), [TurboDuo](#nec-turboduo), [PCE-TP2](#nec-pc-engine-pce-tp2), [PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6))
   - [NEC PC-FX](#nec-pc-fx)
 - [**SNK**](snk)
-  - [Neo-Geo MVS](#neo-geo-mvs)
-  - [Neo-Geo AES](#neo-geo-aes)
-  - [Neo-Geo CD](#neo-geo-cd)
+  - Neo-Geo ([MVS](#neo-geo-mvs), [AES](#neo-geo-aes), [Neo-Geo CD](#neo-geo-cd))
 
 
 ## 8BitDo
@@ -83,7 +64,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 ## Sega
 
-### Sega Mega Drive 2 (Genesis 2)
+### Sega Mega Drive 2 (Japan/Asia)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview.svg" width="40%"></p>
 
@@ -91,6 +72,24 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 - [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [For OBS Studio etc. (with mapping: LStick to DPad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
+
+### Sega Genesis 2
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview-usa.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/genesis2.css)
+- [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/genesis2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: LStick to DPad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/genesis2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/genesis2.css)
+
+### Sega Mega Drive 2 (Europe)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview-eu.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2-eu.css)
+- [For OBS Studio etc. (with mapping: LStick to DPad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2-eu.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: LStick to DPad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2-eu.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2-eu.css)
 
 ### Sega Saturn model 2 (black)
 
