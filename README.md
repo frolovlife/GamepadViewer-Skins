@@ -27,7 +27,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 # :video_game: Controller skins
 
-- [8BitDo](#8bitdo)
+- [**8BitDo**](#8bitdo)
   - [8BitDo M30 (black)](#8bitdo-m30-black)
   - [8BitDo M30 (white)](#8bitdo-m30-white)
 - [**Sega**](#sega)
