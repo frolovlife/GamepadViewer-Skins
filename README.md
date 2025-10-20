@@ -28,20 +28,20 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 # :video_game: Controller skins
 
 - [**8BitDo**](#8bitdo)
-  - 8BitDo M30 ([black](#8bitdo-m30-black), [white](#8bitdo-m30-white))
+  - 8BitDo M30: [black](#8bitdo-m30-black), [white](#8bitdo-m30-white)
 - [**Sega**](#sega)
-  - Sega Mega Drive 2 / Genesis 2 ([Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe))
-  - Sega Saturn model 2 ([black](#sega-saturn-model-2-black), [white](#sega-saturn-model-2-white), [gray](#sega-saturn-model-2-gray))
+  - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe)
+  - Sega Saturn model 2: [black](#sega-saturn-model-2-black), [white](#sega-saturn-model-2-white), [gray](#sega-saturn-model-2-gray)
 - [**Nintendo**](#nintendo)
-  - 8-bit ([Famicom](#famicom), [NES](#nes), [NES «Dogbone»](#nes-dogbone))
-  - 16-bit ([Super Famicom](#super-famicom), [SNES USA](#snes-usa), [SNES Europe](#snes-europe))
+  - 8-bit: [Famicom](#famicom), [NES](#nes), [«Dogbone»](#nes-dogbone)
+  - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
 - [**Famiclones**](#famiclones)
-  - Dendy ([Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2))
+  - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2)
 - [**NEC**](#nec)
-  - PC Engine / TurboGrafx 16 ([PI-PD001](#nec-pc-engine-pi-pd001), [PI-PD002](#nec-pc-engine-pi-pd002), [PI-PD6](#nec-pc-engine-pi-pd6), [PI-PD8](#nec-pc-engine-pi-pd8), [TG 16](#nec-turbografx-16),  [PCE-Duo](#nec-pc-engine-duo), [TurboDuo](#nec-turboduo), [PCE-TP2](#nec-pc-engine-pce-tp2), [PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6))
+  - PC Engine / TurboGrafx 16: [PI-PD001](#nec-pc-engine-pi-pd001), [PI-PD002](#nec-pc-engine-pi-pd002), [PI-PD6](#nec-pc-engine-pi-pd6), [PI-PD8](#nec-pc-engine-pi-pd8), [TG 16](#nec-turbografx-16),  [PCE-Duo](#nec-pc-engine-duo), [TurboDuo](#nec-turboduo), [PCE-TP2](#nec-pc-engine-pce-tp2), [PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
   - [NEC PC-FX](#nec-pc-fx)
 - [**SNK**](snk)
-  - Neo-Geo ([MVS](#neo-geo-mvs), [AES](#neo-geo-aes), [Neo-Geo CD](#neo-geo-cd))
+  - Neo-Geo: [MVS](#neo-geo-mvs), [AES](#neo-geo-aes), [Neo-Geo CD](#neo-geo-cd)
 
 
 ## 8BitDo
