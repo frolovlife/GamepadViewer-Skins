@@ -132,7 +132,7 @@
 }
 
 .custom .a.pressed {
-  background-image: url(pro2/pressed-button-a-black.svg);
+  background-image: url(pro2/pressed-button-a-.svg);
 }
 
 .custom .b {
@@ -140,7 +140,7 @@
 }
 
 .custom .b.pressed {
-  background-image: url(pro2/pressed-button-b-black.svg);
+  background-image: url(pro2/pressed-button-b-.svg);
 }
 
 .custom .x {
@@ -148,7 +148,7 @@
 }
 
 .custom .x.pressed {
-  background-image: url(pro2/pressed-button-x-black.svg);
+  background-image: url(pro2/pressed-button-x-.svg);
 }
 
 .custom .y {
@@ -156,7 +156,7 @@
 }
 
 .custom .y.pressed {
-  background-image: url(pro2/pressed-button-y-black.svg);
+  background-image: url(pro2/pressed-button-y-.svg);
 }
 
 /* Dpad */
