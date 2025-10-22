@@ -4,6 +4,8 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
 
 > [!IMPORTANT]
 > GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
+>
+> Unfortunately, GamepadViewer doesn't support LP, RP, L4, and R4. Therefore, it's impossible to create a skin that supports these buttons.
 
 From time to time, I'll be tweaking existing skins and adding new ones. Please Star this project to avoid losing it.
 
