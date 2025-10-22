@@ -132,7 +132,7 @@
 }
 
 .custom .a.pressed {
-  background-image: url(pro2/pressed-button-a.svg);
+  background-image: url(pro2/pressed-button-a-black.svg);
 }
 
 .custom .b {
@@ -140,7 +140,7 @@
 }
 
 .custom .b.pressed {
-  background-image: url(pro2/pressed-button-b.svg);
+  background-image: url(pro2/pressed-button-b-black.svg);
 }
 
 .custom .x {
@@ -148,7 +148,7 @@
 }
 
 .custom .x.pressed {
-  background-image: url(pro2/pressed-button-x.svg);
+  background-image: url(pro2/pressed-button-x-black.svg);
 }
 
 .custom .y {
@@ -156,16 +156,11 @@
 }
 
 .custom .y.pressed {
-  background-image: url(pro2/pressed-button-y.svg);
-}
-
-#button-mark {
-  fill-opacity: 0;
+  background-image: url(pro2/pressed-button-y-black.svg);
 }
 
 /* Dpad */
 .custom .dpad {
-  background-image: url(pro2/black-dpad.svg);
 }
 
 .custom .dpad::before {
@@ -174,6 +169,7 @@
 
 .custom .face {
   position: absolute;
+  background-image: url(pro2/black-dpad.svg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
