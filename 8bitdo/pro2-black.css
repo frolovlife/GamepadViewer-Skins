@@ -159,6 +159,10 @@
   background-image: url(pro2/pressed-button-y.svg);
 }
 
+#button-mark {
+  fill-opacity: 0;
+}
+
 /* Dpad */
 .custom .dpad {
   background-image: url(pro2/black-dpad.svg);
