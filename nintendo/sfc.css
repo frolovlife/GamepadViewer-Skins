@@ -37,19 +37,21 @@
 }
 
 .custom .bumper.left {
-  background-image: url(snes/shift-left.svg);
+  background-image: url(snes/shift.svg);
 }
 
 .custom .bumper.left.pressed {
-  background-image: url(snes/pressed-shift-left.svg);
+  background-image: url(snes/pressed-shift.svg);
 }
 
 .custom .bumper.right {
-  background-image: url(snes/shift-right.svg);
+  background-image: url(snes/shift.svg);
+  transform: rotateY(180deg);
 }
 
 .custom .bumper.right.pressed {
-  background-image: url(snes/pressed-shift-right.svg);
+  background-image: url(snes/pressed-shift.svg);
+  transform: rotateY(180deg);
 }
 
 /* Start and Select. */
