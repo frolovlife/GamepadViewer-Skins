@@ -37,11 +37,11 @@
 }
 
 .custom .bumper.left {
-  background-image: url(saturn-m2/gray-shift-left.svg);
+  background-image: url(saturn-m2/gray-shift.svg);
 }
 
 .custom .bumper.left.pressed {
-  background-image: url(saturn-m2/pressed-shift-left.svg);
+  background-image: url(saturn-m2/pressed-shift.svg);
 }
 
 .custom .bumper.right {
@@ -65,12 +65,12 @@
 }
 
 .custom .trigger-button.left {
-  background-image: url(saturn-m2/gray-shift-left.svg);
+  background-image: url(saturn-m2/gray-shift.svg);
   transform: rotateY(180deg);
 }
 
 .custom .trigger-button.left.pressed {
-  background-image: url(saturn-m2/pressed-shift-left.svg);
+  background-image: url(saturn-m2/pressed-shift.svg);
   transform: rotateY(180deg);
 }
 
