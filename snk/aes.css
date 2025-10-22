@@ -38,19 +38,21 @@
 }
 
 .custom .start {
-  background-image: url(aes/start.svg);
+  background-image: url(aes/select-start.svg);
+  transform: rotateY(180deg);
 }
 
 .custom .start.pressed {
-  background-image: url(aes/pressed-start.svg);
+  background-image: url(aes/pressed-select-start.svg);
+  transform: rotateY(180deg);
 }
 
 .custom .back {
-  background-image: url(aes/select.svg);
+  background-image: url(aes/select-start.svg);
 }
 
 .custom .back.pressed {
-  background-image: url(aes/pressed-select.svg);
+  background-image: url(aes/pressed-select-start.svg);
 }
 
 /* A, B, X and Y */
