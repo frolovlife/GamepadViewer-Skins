@@ -65,11 +65,13 @@
 }
 
 .custom .trigger-button.left {
-  background-image: url(saturn-m2/black-shift-right.svg);
+  background-image: url(saturn-m2/black-shift-left.svg);
+  transform: rotateY(180deg);
 }
 
 .custom .trigger-button.left.pressed {
-  background-image: url(saturn-m2/pressed-shift-right.svg);
+  background-image: url(saturn-m2/pressed-shift-left.svg);
+  transform: rotateY(180deg);
 }
 
 .custom .trigger-button.right {
