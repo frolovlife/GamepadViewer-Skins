@@ -161,6 +161,7 @@
 
 /* Dpad */
 .custom .dpad {
+  background-image: url(pro2/black-dpad.svg);
 }
 
 .custom .dpad::before {
@@ -169,7 +170,6 @@
 
 .custom .face {
   position: absolute;
-  background-image: url(pro2/black-dpad.svg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
