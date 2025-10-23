@@ -15,7 +15,7 @@
     .fil11 {fill:silver}
     .fil3 {fill:#E17620}
     .fil6 {fill:#E48232}
-    .fil0 {fill:#FF9838}
+    .fil0 {fill:#FF9434}
     .fil12 {fill:black;fill-opacity:0.1}
     .fil1 {fill:#E17620;fill-opacity:0.15}
     .fil13 {fill:black;fill-opacity:0.2}
@@ -29,7 +29,7 @@
   </linearGradient>
   <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="291" y1="188.613" x2="291" y2="158.667">
    <stop offset="0" style="stop-opacity:1; stop-color:#FFC888"/>
-   <stop offset="0.5" style="stop-opacity:1; stop-color:#FF9838"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#FF9434"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#E17620"/>
   </linearGradient>
   <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="208.564" y1="293.349" x2="208.564" y2="227.586">
