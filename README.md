@@ -57,49 +57,49 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/gray-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-gray.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-gray.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-gray.css)
 
 ### 8BitDo Pro 2 (classic)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/classic-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-classic.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-classic.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-classic.css)
 
 ### 8BitDo Pro 2 (black)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/black-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 
 ### 8BitDo Pro 3 (gray)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/gray-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
 
 ### 8BitDo Pro 3 (classic)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/classic-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
 
 ### 8BitDo Pro 3 (purple)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/purple-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
 
 ### 8BitDo Pro 3 (orange)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/orange-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
 
 ### 8BitDo M30 (black)
