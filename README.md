@@ -34,6 +34,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 - [**8BitDo**](#8bitdo)
   - 8BitDo Pro 2: [gray](#8bitdo-pro-2-gray), [classic](#8bitdo-pro-2-classic), [black](#8bitdo-pro-2-black)
+  - 8BitDo Pro 3: [gray](#8bitdo-pro-3-gray), [classic](#8bitdo-pro-3-classic), [purple](#8bitdo-pro-3-purple), [orange](#8bitdo-pro-3-orange)
   - 8BitDo M30: [black](#8bitdo-m30-black), [white](#8bitdo-m30-white)
 - [**Sega**](#sega)
   - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe)
@@ -72,6 +73,34 @@ From time to time, I'll be tweaking existing skins and adding new ones. Please S
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
+
+### 8BitDo Pro 3 (gray)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/gray-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
+
+### 8BitDo Pro 3 (classic)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/classic-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
+
+### 8BitDo Pro 3 (purple)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/purple-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
+
+### 8BitDo Pro 3 (orange)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/orange-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
 
 ### 8BitDo M30 (black)
 
