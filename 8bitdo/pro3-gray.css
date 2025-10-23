@@ -17,7 +17,7 @@
 }
 
 .custom.disconnected {
-  background-image: url(pro3/disconnected.svg);
+  background-image: url(pro2/disconnected.svg);
 }
 
 .custom.disconnected div {
@@ -38,20 +38,20 @@
 }
 
 .custom .bumper.left {
-  background-image: url(pro3/gray-bumper.svg);
+  background-image: url(pro2/gray-bumper.svg);
 }
 
 .custom .bumper.left.pressed {
-  background-image: url(pro3/pressed-bumper.svg);
+  background-image: url(pro2/pressed-bumper.svg);
 }
 
 .custom .bumper.right {
-  background-image: url(pro3/gray-bumper.svg);
+  background-image: url(pro2/gray-bumper.svg);
   transform: rotateY(180deg);
 }
 
 .custom .bumper.right.pressed {
-  background-image: url(pro3/pressed-bumper.svg);
+  background-image: url(pro2/pressed-bumper.svg);
   transform: rotateY(180deg);
 }
 
@@ -68,19 +68,19 @@
 }
 
 .custom .trigger-button.left {
-  background-image: url(pro3/gray-trigger-left.svg);
+  background-image: url(pro2/gray-trigger-left.svg);
 }
 
 .custom .trigger-button.left.pressed {
-  background-image: url(pro3/pressed-trigger-left.svg);
+  background-image: url(pro2/pressed-trigger-left.svg);
 }
 
 .custom .trigger-button.right {
-  background-image: url(pro3/gray-trigger-right.svg);
+  background-image: url(pro2/gray-trigger-right.svg);
 }
 
 .custom .trigger-button.right.pressed {
-  background-image: url(pro3/pressed-trigger-right.svg);
+  background-image: url(pro2/pressed-trigger-right.svg);
 }
 
 /* Start and Select. */
@@ -97,21 +97,21 @@
 }
 
 .custom .start {
-  background-image: url(pro3/gray-select-start.svg);
+  background-image: url(pro2/gray-select-start.svg);
   transform: rotateY(180deg);
 }
 
 .custom .start.pressed {
-  background-image: url(pro3/pressed-select-start.svg);
+  background-image: url(pro2/pressed-select-start.svg);
   transform: rotateY(180deg);
 }
 
 .custom .back {
-  background-image: url(pro3/gray-select-start.svg);
+  background-image: url(pro2/gray-select-start.svg);
 }
 
 .custom .back.pressed {
-  background-image: url(pro3/pressed-select-start.svg);
+  background-image: url(pro2/pressed-select-start.svg);
 }
 
 /* A, B, X and Y  */
@@ -128,35 +128,35 @@
 }
 
 .custom .a {
-  background-image: url(pro3/gray-button-b.svg);
+  background-image: url(pro2/gray-button-b.svg);
 }
 
 .custom .a.pressed {
-  background-image: url(pro3/pressed-button-b.svg);
+  background-image: url(pro2/pressed-button-b.svg);
 }
 
 .custom .b {
-  background-image: url(pro3/gray-button-a.svg);
+  background-image: url(pro2/gray-button-a.svg);
 }
 
 .custom .b.pressed {
-  background-image: url(pro3/pressed-button-a.svg);
+  background-image: url(pro2/pressed-button-a.svg);
 }
 
 .custom .x {
-  background-image: url(pro3/gray-button-y.svg);
+  background-image: url(pro2/gray-button-y.svg);
 }
 
 .custom .x.pressed {
-  background-image: url(pro3/pressed-button-y.svg);
+  background-image: url(pro2/pressed-button-y.svg);
 }
 
 .custom .y {
-  background-image: url(pro3/gray-button-x.svg);
+  background-image: url(pro2/gray-button-x.svg);
 }
 
 .custom .y.pressed {
-  background-image: url(pro3/pressed-button-x.svg);
+  background-image: url(pro2/pressed-button-x.svg);
 }
 
 /* Dpad */
@@ -169,7 +169,7 @@
 
 .custom .face {
   position: absolute;
-  background-image: url(pro3/gray-dpad.svg);
+  background-image: url(pro2/gray-dpad.svg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -181,28 +181,28 @@
 }
 
 .custom .face.up.pressed {
-  background-image: url(pro3/pressed-dpad-up.svg);
+  background-image: url(pro2/pressed-dpad-up.svg);
 }
 
 .custom .face.down {
 }
 
 .custom .face.down.pressed {
-  background-image: url(pro3/pressed-dpad-down.svg);
+  background-image: url(pro2/pressed-dpad-down.svg);
 }
 
 .custom .face.left {
 }
 
 .custom .face.left.pressed {
-  background-image: url(pro3/pressed-dpad-left.svg);
+  background-image: url(pro2/pressed-dpad-left.svg);
 }
 
 .custom .face.right {
 }
 
 .custom .face.right.pressed {
-  background-image: url(pro3/pressed-dpad-right.svg);
+  background-image: url(pro2/pressed-dpad-right.svg);
 }
 
 /* Sticks */
@@ -221,20 +221,20 @@
 }
 
 .custom .stick.left {
-  background: url(pro3/gray-stick.svg);
+  background: url(pro2/gray-stick.svg);
 }
 
 .custom .stick.left.pressed {
-  background: url(pro3/pressed-stick.svg);
+  background: url(pro2/pressed-stick.svg);
 }
 
 .custom .stick.right {
-  background: url(pro3/gray-stick.svg);
+  background: url(pro2/gray-stick.svg);
   transform: rotateY(180deg);
   top: calc(0%);
   left: calc(100% - 75px);
 }
 
 .custom .stick.right.pressed {
-  background: url(pro3/pressed-stick.svg);
-}
+  background: url(pro2/pressed-stick.svg);
+} 
