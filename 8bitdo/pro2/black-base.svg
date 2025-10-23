@@ -24,7 +24,7 @@
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="373.436" y1="293.349" x2="373.436" y2="227.586">
    <stop offset="0" style="stop-opacity:1; stop-color:#080808"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#343434"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#404040"/>
   </linearGradient>
   <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="291" y1="188.613" x2="291" y2="158.667">
    <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
@@ -73,3 +73,4 @@
   <path class="fil12" d="M141.21 176.139c0,-5.18 -4.201,-9.38 -9.38,-9.38 -5.179,0 -9.518,4.2 -9.518,9.38 0,5.179 4.339,9.518 9.518,9.518 5.179,0 9.38,-4.339 9.38,-9.518z"/>
  </g>
 </svg>
+
