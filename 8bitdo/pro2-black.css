@@ -128,35 +128,35 @@
 }
 
 .custom .a {
-  background-image: url(pro2/black-button-a.svg);
-}
-
-.custom .a.pressed {
-  background-image: url(pro2/pressed-button-a-.svg);
-}
-
-.custom .b {
   background-image: url(pro2/black-button-b.svg);
 }
 
-.custom .b.pressed {
+.custom .a.pressed {
   background-image: url(pro2/pressed-button-b-.svg);
 }
 
+.custom .b {
+  background-image: url(pro2/black-button-a.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(pro2/pressed-button-a-.svg);
+}
+
 .custom .x {
-  background-image: url(pro2/black-button-x.svg);
-}
-
-.custom .x.pressed {
-  background-image: url(pro2/pressed-button-x-.svg);
-}
-
-.custom .y {
   background-image: url(pro2/black-button-y.svg);
 }
 
-.custom .y.pressed {
+.custom .x.pressed {
   background-image: url(pro2/pressed-button-y-.svg);
+}
+
+.custom .y {
+  background-image: url(pro2/black-button-x.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(pro2/pressed-button-x-.svg);
 }
 
 /* Dpad */
