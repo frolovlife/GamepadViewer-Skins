@@ -53,7 +53,7 @@
   </linearGradient>
   <linearGradient id="id5" gradientUnits="objectBoundingBox" x1="50%" y1="80%" x2="50%" y2="0%">
    <stop offset="0" style="stop-opacity:1; stop-color:#B7B7AF"/>
-   <stop offset="0.44" style="stop-opacity:1; stop-color:#DCDCD2"/>
+   <stop offset="0.45" style="stop-opacity:1; stop-color:#DCDCD2"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#F2F2EE"/>
   </linearGradient>
   <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="131.828" y1="219.378" x2="131.828" y2="133.07">
