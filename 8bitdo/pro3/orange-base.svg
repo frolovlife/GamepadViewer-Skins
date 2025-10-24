@@ -52,7 +52,7 @@
   </linearGradient>
   <linearGradient id="id5" gradientUnits="objectBoundingBox" x1="50%" y1="80%" x2="50%" y2="0%">
    <stop offset="0" style="stop-opacity:1; stop-color:#E17620"/>
-   <stop offset="0.44" style="stop-opacity:1; stop-color:#FF9434"/>
+   <stop offset="0.45" style="stop-opacity:1; stop-color:#FF9434"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#FFC888"/>
   </linearGradient>
   <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="131.761" y1="214.434" x2="131.761" y2="137.982">
@@ -109,3 +109,4 @@
   <path class="fil21" d="M141.127 176.138c0,-5.179 -4.2,-9.379 -9.379,-9.379 -5.179,0 -9.519,4.2 -9.519,9.379 0,5.179 4.34,9.519 9.519,9.519 5.179,0 9.379,-4.34 9.379,-9.519z"/>
  </g>
 </svg>
+
