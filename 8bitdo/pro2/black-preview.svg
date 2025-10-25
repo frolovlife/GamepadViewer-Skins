@@ -39,7 +39,7 @@
   </linearGradient>
   <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="131.761" y1="214.433" x2="131.761" y2="137.983">
    <stop offset="0" style="stop-opacity:1; stop-color:#242424"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#080808"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
   </linearGradient>
   <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="131.761" y1="220.339" x2="131.761" y2="132.119">
    <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
@@ -71,7 +71,7 @@
   </linearGradient>
   <linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="131.76" y1="219.184" x2="131.76" y2="133.231">
    <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#181818"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#202020"/>
   </linearGradient>
   <linearGradient id="id9" gradientUnits="objectBoundingBox" x1="50%" y1="80%" x2="50%" y2="0%">
    <stop offset="0" style="stop-opacity:1; stop-color:#1A1A1A"/>
@@ -149,3 +149,4 @@
   <path class="fil24" d="M450.819 197.503c8.074,0 14.899,5.348 17.126,12.694 0.042,0.142 -0.031,0.291 -0.169,0.343 -0.142,0.054 -0.301,-0.016 -0.358,-0.157 -2.65,-6.567 -9.083,-11.201 -16.599,-11.201 -7.517,0 -13.951,4.636 -16.6,11.205 -0.057,0.14 -0.216,0.211 -0.358,0.157 -0.138,-0.052 -0.211,-0.201 -0.169,-0.342 2.226,-7.349 9.052,-12.699 17.127,-12.699z"/>
  </g>
 </svg>
+
