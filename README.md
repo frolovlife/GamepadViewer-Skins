@@ -7,7 +7,7 @@ These are custom skins of various controllers for [GamepadViewer](https://gamepa
 >
 > Unfortunately, GamepadViewer doesn't support LP, RP, L4, and R4. Therefore, it's impossible to create a skin that supports these buttons.
 
-From time to time, I'll be tweaking existing skins and adding new ones. Please Star this project to avoid losing it.
+From time to time, I'll be tweaking existing skins and adding new ones. You can star the repository so you don't lose this skins.
 
 ## :tv: How to use with OBS Studio, StreamLabs etc.
 
