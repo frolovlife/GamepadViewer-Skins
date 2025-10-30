@@ -39,6 +39,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [**Sega**](#sega)
   - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe)
   - Sega Saturn model 2: [black](#sega-saturn-model-2-black), [white](#sega-saturn-model-2-white), [gray](#sega-saturn-model-2-gray)
+  - Sega Dreamcast: [white](#sega-dreamcast-white), [black](#sega-dreamcast-black), [super black](#sega-dreamcast-super-black)
 - [**Nintendo**](#nintendo)
   - 8-bit: [Famicom](#famicom), [NES](#nes), [«Dogbone»](#nes-dogbone)
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
@@ -170,6 +171,24 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
+
+### Sega Dreamcast (white)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/white-preview.svg" width="40%"></p>
+
+*Under construction*
+
+### Sega Dreamcast (black)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/black-preview.svg" width="40%"></p>
+
+*Under construction*
+
+### Sega Dreamcast (super black)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/superblack-preview.svg" width="40%"></p>
+
+*Under construction*
 
 
 ## Nintendo
