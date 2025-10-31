@@ -176,7 +176,8 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/white-preview.svg" width="40%"></p>
 
-*Under construction*
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css)
 
 ### Sega Dreamcast (black)
 
