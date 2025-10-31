@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 560 596" width="560px" height="596px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:url(#id1);fill-opacity:0.7}
+    .fil1 {fill:url(#id0)}
+    .fil2 {fill:black;fill-opacity:0.3}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="416.963" y1="235.421" x2="416.963" y2="270.948">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFD633"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#FFCF0D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9B00B"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="416.963" y1="233.909" x2="416.963" y2="272.46">
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M416.963 233.909c10.645,0 19.276,8.631 19.276,19.276 0,10.645 -8.631,19.275 -19.276,19.275 -10.645,0 -19.276,-8.63 -19.276,-19.275 0,-10.645 8.631,-19.276 19.276,-19.276z"/>
+  <circle class="fil1" cx="416.963" cy="253.185" r="17.764"/>
+  <path class="fil2" d="M417.003 255.452l4.934 6.506c0.96,0.987 2.107,0.88 2.56,-0.107 0.24,-0.506 0.16,-1.013 -0.24,-1.493l-5.654 -7.253 5.547 -7.116c0.64,-1.04 0.267,-2.164 -0.88,-2.298 -0.56,-0.08 -1.04,0.134 -1.44,0.698l-4.827 6.351 -4.826 -6.329c-0.96,-1.04 -2.134,-0.906 -2.587,0.134 -0.213,0.506 -0.133,0.986 0.267,1.466l5.547 7.094 -5.681 7.253c-0.64,1.04 -0.24,2.16 0.854,2.294 0.56,0.079 1.066,-0.161 1.493,-0.694l4.933 -6.506z"/>
+ </g>
+</svg>
