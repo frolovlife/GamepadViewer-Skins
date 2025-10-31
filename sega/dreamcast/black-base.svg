@@ -48,8 +48,8 @@
    <stop offset="1" style="stop-opacity:1; stop-color:#3B3B3B"/>
   </linearGradient>
   <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="72.588" y1="243.293" x2="72.588" y2="163.923">
-   <stop offset="0" style="stop-opacity:1; stop-color:#898989"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#D6D6D6"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E6E6E6"/>
   </linearGradient>
   <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="194.961" y1="27.191" x2="365.039" y2="27.191">
    <stop offset="0" style="stop-opacity:1; stop-color:#292929"/>
