@@ -177,6 +177,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/white-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css)
+- [For OBS Studio etc. (with mapping: LB to LT, RB to RT)](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css&map={"mapping":[{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"5"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css)
 
 ### Sega Dreamcast (black)
@@ -184,6 +185,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/black-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css)
+- [For OBS Studio etc. (with mapping: LB to LT, RB to RT)](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css&map={"mapping":[{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"5"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css)
 
 ### Sega Dreamcast (super black)
@@ -191,6 +193,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/superblack-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css)
+- [For OBS Studio etc. (with mapping: LB to LT, RB to RT)](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css&map={"mapping":[{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"5"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css)
 
 
