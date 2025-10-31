@@ -183,13 +183,15 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/black-preview.svg" width="40%"></p>
 
-*Under construction*
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css)
 
 ### Sega Dreamcast (super black)
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/superblack-preview.svg" width="40%"></p>
 
-*Under construction*
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css)
 
 
 ## Nintendo
