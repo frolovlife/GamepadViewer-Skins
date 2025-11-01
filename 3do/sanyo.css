@@ -69,21 +69,19 @@
 }
 
 .custom .start {
-  background-image: url(panasonic/fz1-button-x-p.svg);
-  transform: rotateY(180deg);
+  background-image: url(panasonic/fz1-button-p.svg);
 }
 
 .custom .start.pressed {
-  background-image: url(panasonic/pressed-fz1-button-x-p.svg);
-  transform: rotateY(180deg);
+  background-image: url(panasonic/pressed-fz1-button-p.svg);
 }
 
 .custom .back {
-  background-image: url(panasonic/fz1-button-x-p.svg);
+  background-image: url(panasonic/fz1-button-x.svg);
 }
 
 .custom .back.pressed {
-  background-image: url(panasonic/pressed-fz1-button-x-p.svg);
+  background-image: url(panasonic/pressed-fz1-button-x.svg);
 }
 
 /* A, B and C  */
