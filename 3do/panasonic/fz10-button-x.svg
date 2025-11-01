@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 550 242" width="550px" height="242px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .str0 {stroke:#9D9A91;stroke-width:3;stroke-opacity:0.6}
+    .fil2 {fill:none}
+    .fil1 {fill:#9D9A91}
+    .fil0 {fill:url(#id0)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="245.736" y1="162.822" x2="245.736" y2="187.767">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B5B2AB"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#9D9A91"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#65635D"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <circle class="fil0" cx="245.736" cy="175.294" r="12.472"/>
+  <circle class="fil1" cx="245.736" cy="175.294" r="9.449"/>
+  <path class="fil2 str0" d="M245.736 165.845c5.218,0 9.449,4.231 9.449,9.449 0,5.219 -4.231,9.449 -9.449,9.449 -5.219,0 -9.449,-4.23 -9.449,-9.449 0,-5.218 4.23,-9.449 9.449,-9.449z"/>
+ </g>
+</svg>
