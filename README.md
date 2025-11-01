@@ -45,6 +45,8 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2)
+- [**3DO**](#3do)
+  - [Panasonic FZ-1](#panasonic-fz-1), [Sanyo](#sanyo), [Panasonic FZ-10](#panasonic-fz-10)
 - [**NEC**](#nec)
   - PC Engine / TurboGrafx 16: [PI-PD001](#nec-pc-engine-pi-pd001), [PI-PD002](#nec-pc-engine-pi-pd002), [PI-PD6](#nec-pc-engine-pi-pd6), [PI-PD8](#nec-pc-engine-pi-pd8), [TG 16](#nec-turbografx-16),  [PCE-Duo](#nec-pc-engine-duo), [TurboDuo](#nec-turboduo), [PCE-TP2](#nec-pc-engine-pce-tp2), [PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
   - [NEC PC-FX](#nec-pc-fx)
@@ -294,6 +296,30 @@ With buttons X and Y
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css)
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css)
+
+
+## 3DO
+
+### Panasonic FZ-1
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/3do/panasonic/preview-fz1.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/3do/fz1.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/3do/fz1.css)
+
+### Sanyo
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/3do/panasonic/preview-sanyo.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/3do/sanyo.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/3do/sanyo.css)
+
+### Panasonic FZ-10
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/3do/panasonic/preview-fz10.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/3do/fz10.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/3do/fz10.css)
 
 
 ## NEC
